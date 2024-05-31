@@ -1,4 +1,4 @@
-# Análise de Resíduos e Reciclsgem no Brasil e no Mundo
+# Análise de Resíduos e Reciclagem no Brasil e no Mundo
 
 O Projeto desenvolvido tem como objetivo compreender a situação de produção de lixo e reciclagem do Brasil em comparação com o outros países. Também foca em identificar o nível de reciclagem e tipos mais comuns de resíduos no Brasil. 
 
