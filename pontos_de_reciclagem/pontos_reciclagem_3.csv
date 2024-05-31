@@ -1,0 +1,370 @@
+estado,cidade,local,endereço,bairro,tipo_de_material,horário_seg-sex,horário_sab-dom,tipo
+SP,GUARULHOS,s/n,"Rua João Bernardo de Medeiros, 800",Bom Clima,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Sant Anna,"Rua Soldado Estanislau Wojcik, 26",Macedo,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Zamataro,"Alameda Josefina L. Zamataro, 233",Ponte Grande,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Flor do Campo,"Rua Guilherme Lino dos Santos, 349",Vila Barros,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Galvão,"Rua Ipiranga, 543",Vila Galvão,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Parque Santo Antonio,"Rua Ouvidor, 198",Parque Santo Antonio,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Escola Maria Helena Faria Lima e Cunha,"Avenida Pedro de Souza Lopes, s/n",Cabuçu,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Rio,"Avenida Benjamin Harris Hunnicutt, 1509",Vila Rio,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Bela Vista,"Rua Cabrália, 100",Cabrália,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Parque Mikail,"Rua Justiniano Salvador dos Santos, 269",Mikail,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Sítio dos Morros,"Rua Walter Pereira de Lima, 105",Adriana,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Fortaleza,"Rua Medeia Escardino Mariano, 311",Fortaleza,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Haroldo Veloso,"Rua Campos Gerais, 163",Haroldo Veloso,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Bondança,"Rua Ivan Edmundo Scarameli, 62",Bondança,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Lavras,"Avenida José Brumati, 1857",Lavras,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Cidade Soimco,"Rua Bento Gonçalves, s/nº",Cidade Soimco,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Residencial Parque Cumbica,"Avenida Francisco Xavier Correia, 489",INOCOOP,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Cumbica,"Avenida Berinepe, 99",Jardim Cumbica,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Parque das Nações,"Rua Itália, 13",Pimentas,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jardim Leblon,"Rua Araci, 188",Leblon,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Ponte Alta I,"Rua Zeferino Alves de Oliveira, nº 530",Ponte Alta,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Vila Nova Bonsucesso,"Rua Remanso esquina com Viela Urga, s/n",Nova Bonsucesso,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Jd. Álamo,"Rua Gentil da Silva Leite Filho, 15",Álamo,"Coleta seletiva, obras e materiais, líquidos, borracha",8h15-16h,8h15-15h30,ecoponto
+SP,GUARULHOS,Gopoúva,"Rua Guarulhos, 34",Gopoúva,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Jardim Leila (próximo ao CIESP),"Rua Apolônia Vieira de Jesus, 91",Paraventi,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Parque Continental II,"Rua Valdimiro Laurentino Pêssoa, 655I",Continental,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Parque Santo Antonio,Rua Ouvidor 337,Torres Tibagy,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Vila Galvão,"Avenida Faustino Ramalho, 977",Timóteo Penteado,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Jd. Luciara,"Rua Adélia Sadalla, 166",Iporanga,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Jardim Divinolândia,"Rua São Tomás de Aquino, 61",João do Pulo,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Santos Dumont,"Estrada do Saboó, 795",Santos Dumont,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Jd. Presidente Dutra,"Avenida João Bassi, 707",Presidente Dutra,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,GUARULHOS,Jurema,"Rua Jacutinga, 470",Jurema,"Coleta seletiva, obras e materiais, líquidos, borracha",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Barão Geraldo,"Avenida Santa Isabel, 2300",Barão Geraldo,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Carlos Grimaldi,"Rua Cōnego Pedro Bonhomme, 2424",Jardim Bela Vista,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Campos Sales,"Avenida São José dos Campos, s/n",Campos Sales,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Centro,Rua Antônio Manuel 2,Vila Industrial,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Jardim Eulina,"Avenida Marechal Rondon, s/n",Jardim Chapadão,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Jardim Itajaí,"Rua Celso Soares Couto, s/n",Parque Itajaí,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Jardim Marisa,"Rua Orlando Bortoletti, 217",Jardim Marisa,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Jardim Pacaembu,"Rua Dante Suriani, 2382",Chácara Cneo,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Parque Via Norte,"Rua dos Cambarás, 200",Vila Boa Vista,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Jardim São Gabriel,"Rua José Martins Lourenço, 140",Jardim São Gabriel,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Parque São Jorge,"Rua Plácida Pretini, 196-270",Parque São Jorge,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Souzas,"Avenida Dona Júlia Conceição Alves, 1134",Distrito de Sousas,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Vida Nova,Rua Lídia Martins de Assis,Vida Nova,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Vila União,"Rua Manoel Gomes Ferreira, 42",Parque Tropical,"Coleta seletiva, obras e materiais, borracha e eletrônicos",7h-19h,7h-19h,ecoponto
+SP,CAMPINAS,Vila Rialto ou Parque Itália,"Avenida Prefeito Faria Lima, 630, no DLU",Vila Rialto,Borracha,7h-19h,7h-19h,ecoponto
+SP,São Bernardo do Campo,Areião,Rua do Cruzeiro s/nº,Areião,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Bairro dos Casa,"Avenida Capitão Casa, 687",Bairro dos Casa,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Batistini,"Rua das Flores, 950",Batistini,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Der,"Rua Ernesto Bezerra, 60",Der,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Divinéia,"Rua Mathilde Ferrari Marçon, altura do nº 30",Divinéia,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Jardim Regina,"Rua João de Barro, altura do nº 207",Jardim Regina,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Montanhão,"Estrada do Montanhão, 152",Montanhão,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Parque dos Pássaros,"Rua dos Tangarás, 867",Parque dos Pássaros,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Parque São Bernardo,Rua Almeida Leme s/nº,Parque São Bernardo,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Riacho Grande,"Rua Marcílio Conrado, 600",Riacho Grande,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Rudge Ramos,"Rua Guilherme de Almeida, 86",Rudge Ramos,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Taboão,"Rua Pedro Ivo, 110",Taboão,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São Bernardo do Campo,Três Marias,"Estrada Eiji Kikuti, 1892",Três Marias,"Coleta seletiva, obras e materiais",8h-16h,"8h-16h, apenas sábado",ecoponto
+SP,São José dos Campos,Urbanova,"Avenida Dr. Dilson Lara, 80, Residencial Monserrat",Urbanova,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Santa Luzia - Putim,"Avenida Vicente Brandão Ferreira, 293",Santa Luzia - Putim,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Campo dos Alemães,"Avenida dos Evangélicos, 601",Campo dos Alemães,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Dom Pedro 2º,"Rua Antônio Eduardo Alvarenga, 130",Dom Pedro 2º,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Residencial Gazzo,"Rua Arcilio Moreira da Silva, 774",Residencial Gazzo,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,31 de Março,"Rua Guidoval, 100",31 de Março,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Jardim Satélite,"Rua Estrela Dalva, 135",Jardim Satélite,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Interlagos,"Rua Ubirajara Raimundo de Souza, 21",Interlagos,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Galo Branco,"Avenida Benedito Luiz de Medeiros, 811",Galo Branco,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Novo Horizonte,"Avenida Tancredo Neves, 5630",Novo Horizonte,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Jardim Copacabana,"Rua Charles Diamond, 80",Jardim Copacabana,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Altos de Santana,"Avenida Alto do Rio Doce, 1075",Altos de Santana,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Vila Jaci,"Rua Xavantes, 367",Vila Jaci,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,Jardim Jussara,"Rua Ana Gonçalves da Cunha, 370",Jardim Jussara,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,São José dos Campos,São Francisco Xavier,Rua Joaquim Cláudio da Silva,São Francisco Xavier,"coleta seletiva, obras e materiais, eletrônicos, líquidos, borracha",8h-17h,8h-12h,ecoponto
+SP,Santo André,Erechim,"Rua Erechim, 635",Parque Erasmo Assunção,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Antonina,"Av. Engenheiro Olavo Alaysio de Lima, 945",Jardim Santo Antônio,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Ipanema,"Av. Capitão Mario Toledo de Camargo, 2955",Jardim Ipanema,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Paraíso,"Rua Juquiá, 200",Paraíso,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Bom Pastor,"Avenida Bom Pastor, 1150",Jardim Bom Pastor,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Centreville,"Praça Eurico Gaspar Dutra, 181",Centreville,"Coleta seletiva, obras e materiais",9h-17h,9h-17h,ecoponto
+SP,Santo André,Caminho do Pilar,"Rua Caminho do Pilar, 1541",Bairro Pinheirinho,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Camilópolis,"Rua Benjamim Constant, 20",Camilópolis,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Cerquilho,"Rua Cerquilho, 151",Vila Lucinda,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Santo Expedito,"Rua Santo Expedito, 107",Jardim Santo Antônio,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Cata Preta,"Estrada do Cata Preta, 989",Vila João Ramalho,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Utinga,"Avenida da Paz, 470",Utinga,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Loreto,"Avenida Loreto, 101",Jardim Santo André,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Jd. Irene,"Rua Caminho dos Vianas, 340",Jardim Irene,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Sorocaba,"Av. Sorocaba, 1001",Parque João Ramalho,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Santo Alberto,"Rua Evangelista de Souza, 1689",Jardim Santo Alberto,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Sacadura Cabral,"Rua Lauro Muller, 400",Vila Sacadura Cabral,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Ana Maria,"Av. Cândido Camargo, 101",Jd. Ana Maria,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Bangú,"Rua Oratório, 1000",Bangú,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Palmeiras,"Av. Prestes Maia, 195",Bairro Jardim,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Centro,"Travessa São Bento, 15",Bairro Jardim,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Alvorada,"Rua Rolândia, 400",Jd. Alvorada,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Jardim Cristiane,"Av. José Fernando de Medina Braga, 1000",Jd. Cristiane,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Vila Linda,"Rua Cametá, 81",Vila Linda,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Jardim Santo André,"Rua da Visão, 501",Jardim Santo André,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Parque Miami,"Rua Pintassilva, 51",Pq. Miami,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Vila Guiomar,"Avenida Dom Jorge Marcos de Oliveira, 151",Vila Guiomar,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Marajoara,"Rua Edgard Vieira de Lima, 51",Parque Marajoara,"Coleta seletiva, obras e materiais",9h-17h,"9h-17h, apenas sábado",ecoponto
+SP,Santo André,Paranabiacaba,"Avenida Ford, 37",Vila de Paranabiacaba,"Coleta seletiva, obras e materiais",10h-18h,"10h-18h, apenas sábado",ecoponto
+SP,Santo André,Atrium Shopping,"Rua Giovanni Battista Pirelli, 155",Vila Homero Thon,Eletrônicos,10h-22h,14h-22h,ecoponto
+SP,Ribeirão Preto,Conjunto Habitacional Alexandre Balbo,"Avenida Ettore e Aurora Corauci, 1375",Conjunto Habitacional Alexandre Balbo,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Ribeirão Preto,Jardim Centenário,"Rua Arthur Ramos, 1185",Jardim Centenário,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Ribeirão Preto,Jardim Santos Dumont,"Rua Guará, 2225",Jardim Santos Dumont,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Ribeirão Preto,Jardim das Palmeiras II,"Rua Poeta Fernando Pessoa, 15",Jardim das Palmeiras II,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Ribeirão Preto,Jardim Paiva,"Av. Sen. Teotônio Vilella, 1285",Jardim Paiva,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Ribeirão Preto,Jardim São Fernando,"Avenida Miguel Padulla, 400",Jardim São Fernando,"Coleta seletiva, obras e materiais",7h-19h,7h-19h,ecoponto
+SP,Osasco,Jardim Mutinga,"Avenida Ônix, n 783",Jardim Ayrosa,"Coleta seletiva, obras e materiais, eletrônicos",6h-22h,6h-22h,ecoponto
+SP,Osasco,Helena Maria,Av. Walt Disney / R. Belmiro Alves da Silva,Jardim Elvira,"Coleta seletiva, obras e materiais, eletrônicos",6h-22h,6h-22h,ecoponto
+SP,Osasco,Novo Osasco,"Rua Theodoro de Souza Brandão, n 1020",Novo Osasco,"Coleta seletiva, obras e materiais, eletrônicos",6h-22h,6h-22h,ecoponto
+SP,Osasco,Jaguaribe,"Rua Fernando Miolin Filho, n 150",Jaguaribe,"Coleta seletiva, obras e materiais, eletrônicos",6h-22h,6h-22h,ecoponto
+SP,Osasco,Miniecoponto Adalgisa,"Rua Octávio Catelani, s/n, esquina com a Rua Rui Alvarenga",Adalgisa,"Coleta seletiva, obras e materiais, eletrônicos",7h-16h,sem informação,ecoponto
+SP,Osasco,Miniecoponto Bandeiras,"Rua João Guimarães Rosa, 220",Bandeiras,"Coleta seletiva, obras e materiais, eletrônicos",7h-16h,sem informação,ecoponto
+SP,Osasco,Miniecoponto Munhoz Júnior,Rua Dr. José Marquês de Rezende,Jardim Munhoz Junior,"Coleta seletiva, obras e materiais, eletrônicos",7h-16h,sem informação,ecoponto
+SP,Osasco,Miniecoponto Jardim Padroeira,Av. Benedito Alves Turíbio,Padroeira,"Coleta seletiva, obras e materiais, eletrônicos",7h-16h,sem informação,ecoponto
+SP,Sorocaba,Vila Helena,"Rua Roque Sampaio, 100",Vila Helena,"Coleta seletiva, obras e materiais, eletrônicos",7h-17h,"7h-12h, apenas sábado",ecoponto
+SP,Sorocaba,Cajuru,"Rua Mário Monteiro de Carvalho, S/N",Cajuru,"Coleta seletiva, obras e materiais, eletrônicos",7h-17h,"7h-12h, apenas sábado",ecoponto
+SP,Sorocaba,Júlio de Mesquita Filho,"Avenida Domingues Martins, s/n – Júlio de Mesquita Filho",Júlio de Mesquita Filho,"Coleta seletiva, obras e materiais, eletrônicos",7h-17h,"7h-12h, apenas sábado",ecoponto
+SP,Sorocaba,Vila Hortência,"Rua Lourenço Molineiro, 100 – Vila Hortência",Vila Hortência,"Coleta seletiva, obras e materiais, eletrônicos",7h-17h,"7h-12h, apenas sábado",ecoponto
+SP,Mauá,Jardim Zaíra,"Av. Guerino Stella, 357",Jardim Zaíra,"Coleta seletiva, eletrônicos, líquidos, obras e materiais",8h-17h,"8h-17h, apenas sábado",ecoponto
+SP,Mauá,Jardim Itapeva,"Rua Luiz Pacolla, 21",Jardim Itapeva,"Coleta seletiva, eletrônicos, líquidos, obras e materiais",8h-17h,"8h-17h, apenas sábado",ecoponto
+SP,Mauá,Jardim Zaíra 4,"Av. Jesuíno Nicomédio dos Santos, na esquina com Sebastião Antônio da Silva",Jardim Zaíra 4,"Coleta seletiva, eletrônicos, líquidos, obras e materiais",8h-17h,"8h-17h, apenas sábado",ecoponto
+SP,Mauá,Vila Feital,"Rua José Pedro Corrêa, s/n",Vila Feital,"Coleta seletiva, eletrônicos, líquidos, obras e materiais",8h-17h,"8h-17h, apenas sábado",ecoponto
+SP,Mauá,Vila Noêmia,"Avenida Papa João XXIII, 1413 (ao lado do pátio de veículos)",Vila Noêmia,"Coleta seletiva, eletrônicos, líquidos, obras e materiais",8h-17h,"8h-17h, apenas sábado",ecoponto
+SP,São Paulo,Drogaraia,"Praça da Sé, 152",Sé,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Paulista, 807",Bela Vista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Bonifácio Cubas, 18",Vila Albertina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Joaquim Nabuco, 84",Brooklin,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Penha de França, 429",Penha,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Teodoro Sampaio, 2324",Pinheiros,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Heitor Penteado, 1776",Sumaré,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Cerro Corá, 1917",Alto da Lapa,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Praça Panamericana, 57",Alto de Pinheiros,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua João Cachoeira, 732",Itaim,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Clodomiro Amazonas, 1009",Vila Olímpia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Afonso Brás, 610",Vila Nova Conceição,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida São Luiz, 35",Consolação,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Moema, 370",Moema,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Brigadeiro Faria Lima, 1727",Jardim América,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Cardoso de Almeida, 275",Perdizes,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Nova Cantareira, 3245",Água Fria,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Américo Brasiliense, 569",Alto da Boa Vista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Praça Sílvio Romero, 80",Tatuapé,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Jabaquara, 1314",Saúde,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Vital Brasil, 752",Butantã,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Angélica, 1062",Higienópolis,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Maria Antônia, 283",Vila Buarque,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Praça Padre Damião, 143",Vila Prudente,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida do Anastácio, 655",Parque São Domingos,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Mascote, 427",Vila Mascote,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Leôncio de Magalhães, 1004",Jardim São Paulo,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Joaquina Ramalho, 1239",Vila Guilherme,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Maria Amália Lopes de Azevedo, 845",Vila Albertina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida do Cursino, 2268",Jardim da Saúde,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Dona Belmira Marin, 1036",Capela do Socorro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Zelina, 752",Vila Zelina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Coriolano, 1114",Vila Romana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Santa Inês, 926",Mandaqui,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Fagundes Filho, 134",Vila Monte Alegre,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Professor Vicente Rao, 1186",Jardim Cordeiro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Nova Cantareira, 978",Tucuruvi,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Cristóvão Pereira, 1533",Campo Belo,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Vergueiro, 8923",Vila Firmiano Pinto,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Doutor Gentil Leite Martins, 128",Vila Nova Caledônia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Nove de Julho, 34",Santo Amaro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Sargento Geraldo Santana, 998",Jardim Taquaral,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Aratãs, 483",Indianópolis,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Diógenes Ribeiro de Lima, 2555",Alto de Pinheiros,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Pacaembu, 1047",Pacaembu,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Engenheiro Caetano Álvares, 4906",Imirim,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Professor Alfonso Bovero, 531",Sumaré,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Oliveira Alves, 450",Ipiranga,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Professor Francisco Morato, 2830",Vila Sônia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Domingos de Morais, 2350",Vila Clementino,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Vereador José Diniz, 3540",Campo Belo,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Giovanni Gronchi, 5111",Vila Andrade,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua José Maria Lisboa, 645",Jardim Paulistano,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Padre João Manoel, 241",Cerqueira César,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Tutóia, 1045",Paraíso,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Benedito Andrade, 358",Jardim São José,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Braz Leme, 2097",Santana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Gaivotas, 1177",Moema,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Nebraska, 105",Brooklin,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Schilling, 390",Vila Leopoldina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Doutor Cândido Mota Filho, 648",Cidade São Francisco,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Apucarana, 522",Tatuapé,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Voluntários da Pátria, 4037",Santana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Professor Alfonso Bovero, 1452",Pompéia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Roque Petroni Júnior, 1089",Vila Gertrudes,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida da Aclimação, 815",Aclimação,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Inácio Pereira da Rocha, 296",Vila Madalena,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Luiz Dumont Villares, 522",Vila Guilherme,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Conselheiro Rodrigues Alves, 853",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida General Edgar Facó, 648",Vila Arcádia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Washington Luiz, 1749",Santo Amaro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua dos Otonis, 640",Vila Clementino,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Lavandisca, 296",Indianópolis,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Cassandoca, 84",Mooca,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Bosque da Saúde, 472",Saúde,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Nelson Gama de Oliveira, 249",Vila Andrade,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Francisco Isoldi, 411",Sumarezinho,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Desembargador Dalmo do Valle Nogueira, 79",Vila Suzana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Caiubi, 1240",Perdizes,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Alameda Lorena, 264",Jardim Paulista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Cônego Eugênio Leite, 720",Pinheiros,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida São Gabriel, 281",Jardim Paulista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Sumaré, 1177",Perdizes,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Santo Amaro, 407",Vila Nova Conceição,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Cubatão, 184",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Guilherme Giorgi, 1909",Vila Carrão,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida João Carlos da Silva Borges, 747",Vila Cruzeiro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Domingos de Morais, 3123",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Paulista, 1230",Bela Vista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Angélica, 2091",Consolação,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Olimpíadas, 360",Vila Olímpia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Doutor Guilherme Dumont Vilares, 2481",Jardim Londrina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Alameda Ministro Rocha Azevedo, 1327",Cerqueira César,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Celso Garcia, 5100",Tatuapé,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua da Consolação, 3064",Cerqueira César,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Vergueiro, 4999",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Teodoro Sampaio, 548",Pinheiros,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Topázio, 1000",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Morumbi, 8360",Santo Amaro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Santa Cruz, 1884",Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Regente Leon Kaniefsky, 610",Morumbi,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Oscar Freire, 733",Cerqueira César,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Imirim, 2280",Imirim,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Regente Feijó, 639",Vila Regente Feijó,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Carlos Weber, 550",Vila Leopoldina,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Serra de Botucatu, 1658",Vila Gomes Cardim,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Doutor Altino Arantes, 340",Vila Clementino,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Prefeito Fábio Prado, 2201",Jardim Vila Mariana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Treze de Maio, 1947",Bela Vista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Amador Bueno da Veiga, 1586",Penha de França,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Corifeu de Azevedo Marques, 950",Butantã,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Gaspar Fernandes, 416",Vila Monumento,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Ibirapuera, 3103",Ibirapuera,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Muniz de Souza, 565",Aclimação,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Paulista, 2073",Cerqueira César,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Itaberaba, 1813",Nossa Senhora do Ó,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida José Maria Whitaker, 669",Planalto Paulista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Frei Caneca, 462",Consolação,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Praça Doutor José Augusto Cesar, 58",Santana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua São Sebastião, 866",Santo Amaro,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Washington Luis, S/N",Vila Congonhas,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Bom Pastor, 2133",Ipiranga,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Tito, 1275",Vila Romana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Correggio, 25",Vila Suzana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Ministro Laudo Ferreira de Camargo, 293",Peri Peri,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Juventus, 422",Mooca,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Alfredo Pujol, 620",Santana,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Afonso Sardinha, 13",Lapa,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Barão do Melgaço, 214",Real Parque,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Alameda Barros, 562",Santa Cecília,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Maranhão, 812",Higienópolis,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Pompeia, 918",Pompéia,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Ibituruna, 400",Parque Imperial,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Renata, S/N",Chácara Belenzinho,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua do Oratório, 1775",Alto da Mooca,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Avenida Paes de Barros, 174",Mooca,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua Emília Marengo, 428",Regente Feijó,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Praça Gentil Falcão, 180",Brooklin,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Rua dos Belgas, 67",Bela Vista,medicamentos,7h-23h,7h-23h,privado
+SP,São Paulo,Drogaraia,"Alameda Barros, 584",Santa Cecília,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"R Capitao Gabriel, 396",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"R Tabajara, S/N",Vila São Jorge,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Doutor Timoteo Penteado, 2860",Vila Rosália,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Salgado Filho, 1468",Jardim Maria Helena,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Rodovia Helio Smidt, S/N",Aeroporto,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"R Mae Dos Homens, 254",Vila Progresso,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Otavio Braga De Mesquita, 1433",Vila Flórida,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Guarulhos, 1452",Vila Augusta,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Rua Engenheiro Camilo Olivetti, 295",Itapegica,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Rua Treze De Maio, 23",Vila Galvão,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Paulo Faccini, 1411",Macedo,medicamentos,7h-23h,7h-23h,privado
+SP,Guarulhos,Drogaraia,"Avenida Paulo Faccini, 2375",Macedo,medicamentos,7h-23h,7h-23h,privado
+SP,Santo André,Drogaraia,"Avenida Dom Pedro II, 1861",Campestre,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Av Campos Sales, 874",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Av Francisco Glicerio, 1341",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Av Julio De Mesquita, 865",Cambui,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Albino Jose Barbosa De Oliveira, 1060",Barao Geraldo,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"R Dona Joana Gusmao, 16",Guanabara,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Rua Das Camelias, 929",Chacara Primavera,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Princesa D Oeste, 1375",Jardim Proenca,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Rua Maria Monteiro, 817, Cambui",Cambui,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Brasil, 360",Vl Itapura,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Doutor Moraes Salles, 973",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Rua Paula Bueno, 1193",Taquaral,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Rua Mogi Guacu, 1504",Jardim Flamboyant,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Andrade Neves, 2116",Jardim Chapadao,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Avenida Washington Luis, 2300",Chacara Prado,medicamentos,7h-23h,7h-23h,privado
+SP,Campinas,Drogaraia,"Rua General Osório, 1895",Cambui,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Avenida Cidade Jardim, 2962",Bosque Eucaliptos,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Avenida Doutor Nelson D'Avila, 148",Jardim São Dimas,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Avenida Nove De Julho, 553",Jardim Apolo,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Rua Das Arraias, 100",Parque Residencial Aquarius,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Avenida São João, 2135",Jardim Colinas,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Avenida Possidonio Jose Freitas, S/N",Urbanova I,medicamentos,7h-23h,7h-23h,privado
+SP,São José dos Campos,Drogaraia,"Rua Alexandrino José De Souza, 170",Santana,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Campos Salles, 482",Vila Seixas,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Do Cafe, 120",Vila Tibério,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Portugal, 1720",Santa Cruz Jardim Japones Jacques,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Niterói, 863",Parque Industrial Lagoinha,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Silveira Martins, 279",Campos Elíseos,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Portugal, 1778",Santa Cruz Jardim Japones Jacques,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Caramuru, 2320",Alto da Boa Vista,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Coronel Fernando Ferreira Leite 1540, 1540",Jardim Califórnia,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Leão XIII, 1724",Ribeirânia,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Henri Nestlé, 965",Parque dos Lagos,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Heraclito Fontoura Sobral Pinto, 430",Condomínio Guaporé,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Coronel Américo Batista, 1460",Ipiranga,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida General Euclydes De Figueiredo, 1200",Quarteirão Paulista,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Chile, 1595",Jardim Irajá,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Independência, 860",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Comandante Marcondes Salgado, 1191",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Chile, 1595",Jardim Irajá,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Treze De Maio, 500",Jardim Paulista,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida Carlos Eduardo De Gasperi Consoni, 892",Jardim Botânico,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Rua Tibiriçá, 504",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,Ribeirão Preto,Drogaraia,"Avenida José Luiz Cristófani, 490",Jardim Nova Aliança Sul,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida Antonio Carlos Comitre, 290",Parque Campolim,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida Itavuvu, 2182",Jardim Maria Antonia Prado,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida De São Francisco, 28",Jardim Santa Rosália,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida Barao De Tatui, 920",Jardim Vergueiro,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida Doutor Armando Pannunzio, 486",Jardim Vera Cruz,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Avenida Engenheiro Carlos Reinaldo Mendes, 2545",Além Ponte,medicamentos,7h-23h,7h-23h,privado
+SP,Sorocaba,Drogaraia,"Rua Doutor Alvaro Soares, 44",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Doutor Alberto Andaló, 3887",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Doutor Antônio Marques Dos Santos, 380",Jardim Seyon,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Belvedere, 605",Belvedere Terra Nova,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Rua Bernardino De Campos, 3730",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Mirassolandia, 1820",Residencial Ana Célia,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Fortunato Ernesto Vetorasso, 650",Jardim Residencial Vetorasso,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Presidente J. K. De Oliveira, 3441",Jardim Moysés Miguel Haddad,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Rua Rubião Júnior, 2625",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Rua Bernardino De Campos, 3630",Centro,medicamentos,7h-23h,7h-23h,privado
+SP,São José do Rio Preto,Drogaraia,"Avenida Doutor Antônio Tavares Pereira Lima, 379",Jardim Boa Vista,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Marechal Floriano Peixoto, 12",Gonzaga,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Rua Mato Grosso, 33",Boqueirão,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Epitacio Pessoa, 539",Aparecida,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Marechal Floriano Peixoto, 284",Gonzaga,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Conselheiro Nebias, 547",Boqueirão,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Rua Conselheiro Lafaiete, 5",Embaré,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Washington Luis, 478",Gonzaga,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Dr Bernardino De Campos, 613",Campo Grande,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Ana Costa, 276",Vila Mathias,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Praça Jose Domingues Martins, 15",Aparecida,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Praça Independencia, 18",Gonzaga,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Almirante Cochrane, 62",Aparecida,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Siqueira Campos, 358",Boqueirão,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av General Francisco Glicério, 339",Gonzaga,medicamentos,7h-23h,7h-23h,privado
+SP,Santos,Drogaraia,"Av Dr Pedro Lessa, 2449",Embaré,medicamentos,7h-23h,7h-23h,privado
+SP,Piracicaba,Drogaraia,"Avenida Independencia, 1290",Centro,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Doutor Paulo De Moraes, 1360",Paulista,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Saldanha Marinho, 1465",Centro,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Dona Francisca, 499",Vila Rezende,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Rua Antonio Lourenco Do Canto, 64",Nova America,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Independencia, 2906",Centro,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Av Limeira, 722",Areião,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Rua Corcovado, 71",Jardim Sonia,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Rua Governador Pedro De Toledo, 1244",Centro,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Dois Córregos, 1610",Piracicamirim,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Armando Cesare Dedini, 405",Norte Piracicaba,medicamentos,7h-19h,7h-19h,privado
+SP,Piracicaba,Drogaraia,"Avenida Madre Maria Teodora, 1062",Jaraguá,medicamentos,7h-19h,7h-19h,privado

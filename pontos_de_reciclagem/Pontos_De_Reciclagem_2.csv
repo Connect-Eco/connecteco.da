@@ -1,0 +1,985 @@
+estado,cidade,local,endereço,bairro,cep,tipo_de_material,horario_seg_sex,horario_sab_dom,tipo
+SP,São Paulo,Hirota - Mooca,"Rua Teresina, 319",Vila Bertioga,03185-010,Cápsulas de café,,,Três Corações
+SP,São Paulo,Super Saudável,"Avenida São Gualter, 931",Alto de Pinheiros,05455-001,Cápsulas de café,,,
+SP,São Paulo,COOP Industrial,"Avenida Industrial, 2001",Campestre,09080-511,Cápsulas de café,,,
+SP,São Paulo,Hirota - Campo Belo,"Rua Vieira de Morais, 263",Campo Belo,04617-010,Cápsulas de café,,,
+SP,São Paulo,Emporium São Paulo - Jurema,"Avenida Jurema, 271",Indianópolis,04087-000,Cápsulas de café,,,
+SP,São Paulo,Hirota - Ipiranga,"Avenida Nazaré, 1299",Ipiranga,04263-100,Cápsulas de café,,,
+SP,São Paulo,Emporium São Paulo - Pedroso Alvarenga,"Rua. R. Pedroso Alvarenga, 803",Itaim Bibi,04531-002,Cápsulas de café,,,
+SP,São Paulo,Hirota - Saúde,"Avenida Jabaquara, 1920",Vila da Saúde,04046-300,Cápsulas de café,,,
+SP,São Paulo,Hirota - Santa Cecília,"Avenida General Olímpio da Silveira, 39",Santa Cecília,01150-001,Cápsulas de café,,,
+SP,São Paulo,Hirota - Vila Monumento,"Rua Gaspar Fernandes, 452",Vila Monumento,01549-000,Cápsulas de café,,,
+SP,São Paulo,Emporium São Paulo - Afonso Braz,"Rua Afonso Braz, 431",Vila Nova Conceição,04511-011,Cápsulas de café,,,
+SP,Ferraz de Vasconcelos,Ecoponto Ferraz de Vasconcelos,"Av. dos Multirantes, s/n Jd, Rua Itajuibe,",,08540-540,"Papel, plástico, vidro e metal",,,
+SP,Ferraz de Vasconcelos,Ecoponto Favela dos Sonhos,"R. São Lucas, 4",Jardim São Lázaro,08541-110,"Papel, plástico, vidro e metal",,,
+SP,São Paulo,RUA AUGUSTA,"Rua Augusta, 1.600, Consolação, São Paulo – SP CEP",Consolação,01304-001,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING ARICANDUVA,"Av. Aricanduva, 5555 - Loja Âncora 1",Jardim Aricanduva,03527-000,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING BOAVISTA,"Rua Borba Gato, 59 - Lojas L219 e L315",Santo Amaro,04747-030,Lixo eletrônico,,,
+SP,São Paulo,CENTRAL PLAZA SHOPPING,"Av. Francisco Mesquita N-1000 - Loja Âncora ""C"" - Vila Prudente
+- São Paulo - SP",Vila Prudente,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING CAMPO LIMPO,"Estrada do Campo Limpo, 459 - loja âncora A-01",Vila Prel,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING IBIRAPUERA,"Av. Ibirapuera, 3103 - lojas 4 e 5",Indianópolis,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING INTERLAGOS,"Av. Interlagos, 2255 - Loja ""Arco A""",Campo Grande,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING JARDIM SUL,"Avenida Giovanni Gronchi, 5819 - LUC 001",Vila Andrade,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING MORUMBI,"Av. Roque Petroni Júnior, 1089 - loja 1",Vila São Francisco,,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING PENHA,"Rua Doutor João Ribeiro, 304 Lojas Âncoras C e F",Penha de França,03634-900,Lixo eletrônico,,,
+SP,São Paulo,RAPOSO SHOPPNG,"Rodovia Raposo Tavares, s/nº , Km 14,5 - lojas 3001 e 3002",Jardim Olympia,05576-970,Lixo eletrônico,,,
+SP,São Paulo,SANTANA PARQUE SHOPPING,"Rua Conselheiro Moreira de Barros, 2780, loja 2011 - 2º
+pavimento",Mandaqui,02430-001,Lixo eletrônico,,,
+SP,São Paulo,BOURBON SHOPPING POMPÉIA,"Rua Turiassu, 2.100, loja 117, 2º piso",Perdizes,05005-900,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING CENTER NORTE,"Travessa Casalbuono, 120 - loja 610",Vila Guilherme,02047-050,Lixo eletrônico,,,
+SP,São Paulo,CANTAREIRA NORTE SHOPPING,"Endereço: Avenida Raimundo Pereira de Magalhães, 11.001 –
+loja 1002/2002",Jardim Pirituba,02984-035,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING ITAQUERA,"Avenida José Pinheiro Borges, s/nº - lojas 101/201, Gleba I",Itaquera,08220-900,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING MÓOCA,"Rua Capitão Pacheco e Chaves, 313 – loja 2049",Vila Prudente,03126-000,Lixo eletrônico,,,
+SP,São Paulo,CENTRO - SÃO PAULO,"Rua 24 de Maio, 70",Centro,01041-001,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING D,"Avenida Cruzeiro do Sul, 1.100, SUC 2000, 2º piso",Canindé,03033-020,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING ELDORADO,"Avenida Rebouças, 3970, lojas 231 a 234, 236A, 239, 246 e 279,
+1º Piso",Pinheiros,05402-918,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING SP MARKET,"Avenida das Nações Unidas, 22.540, loja A7 - 17/18/19, Bloco C",Vila Almeida,04795-000,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING PLAZA SUL,"Pça. Leonor Kaupa, 100 - lojas 119 e 225",Jardim da Saúde,04151-100,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING TIETÊ PLAZA,"Avenida Raimundo Pereira de Magalhães, 1465 – loja âncora
+1000",Jardim Íris,05145-000,Lixo eletrônico,,,
+SP,São Paulo,SHOPPING WEST PLAZA,"Pça. Tomas Morus, 408 - Bloco B - Térreo - lj.201",Água Branca,05003-090,Lixo eletrônico,,,
+SP,Santo André,SHOPPING ABC,"Av. Pereira Barreto, 42 - Loja Âncora 3",Vila Gilda,09190-210,Lixo eletrônico,,,
+SP,Diadema,SHOPPING PRAÇA DA MOÇA,"Rua Manoel da Nóbrega, 712 - lojas 241 e 301",Centro,09910-720,Lixo eletrônico,,,
+SP,Mauá,MAUÁ PLAZA SHOPPING,"Av. Governador Mário Covas Júnior, 01 - loja 151",Jd. Rosina,09390-040,Lixo eletrônico,,,
+SP,Jardim Santo André,SHOPPING ABC PLAZA,"Av. Industrial, 600 - Espaço Comercial 223, 224 e 228",Jardim Santo André,09080-500,Lixo eletrônico,,,
+SP,S.B. do Campo,"CENTRO - SÃO BERNARDO DO
+CAMPO","Rua: Marechal Deodoro, 1078",Centro,09710-001,Lixo eletrônico,,,
+SP,S.B. do Campo,SHOPPING METRÓPOLE,"Praça Samuel Sabatini, 200, loja LSU-4",Centro,09750-902,Lixo eletrônico,,,
+SP,São Bernardo,SHOPPING S.B. PLAZA,"Avenida Albert Schweitzer, 256 – loja 1046",Ferrazópolis,09790-000,Lixo eletrônico,,,
+SP,São Caetano do Sul,SÃO CAETANO DO SUL,"Alameda Terracota, 545, loja 1007/2007",Cerâmica,09531-190,Lixo eletrônico,,,
+SP,Santo André,CENTRO - SANTO ANDRÉ,"Rua Campos Salles, 235/247",Centro,09015-200,Lixo eletrônico,,,
+SP,Guarulhos,BONSUCESSO SHOPPING,"Estrada Presidente Juscelino Kubitschek de Oliveira, 5308 - loja
+âncora C",Jardim Albertina,07252-000,Lixo eletrônico,,,
+SP,Guarulhos,INTERNACIONAL SHOPPING,"Rua Engenheiro Camilo Olivetti, 295 - SUC R01 - R01A2 - M01 -
+M02",Itapegica,07042-040,Lixo eletrônico,,,
+SP,Guarulhos,CENTRO - GUARULHOS,"Rua Dom Pedro II ,06",Centro,07011-003,Lixo eletrônico,,,
+SP,Mogi das Cruzes,MOGI SHOPPING,"Avenida Vereador Narciso Yague Guimarães, 1.001, loja A 27",Jardim Armênia,08780-000,Lixo eletrônico,,,
+SP,Osasco,CENTRO - OSASCO,"Rua Antônio Agú, 487",Centro,06013-006,Lixo eletrônico,,,
+SP,Osasco,SHOPPING UNIÃO,"Avenida dos Autonomistas, 1.400, loja âncora ""M""",Vila Yara,05340-002,Lixo eletrônico,,,
+SP,Barueri,PARQUE SHOPPING BARUERI,"Rua General de Divisão de Pedro Rodrigues da Silva, 400 – loja
+2037, piso L02",Aldeia,06440-180,Lixo eletrônico,,,
+SP,Itapecerica da Serra,SHOPPING ITAPECERICA,"Avenida Quinze de novembro, 89 – loja âncora L2015",Centro,06850-100,Lixo eletrônico,,,
+SP,Suzano,SHOPPING SUZANO,"Rua Sete de Setembro, 555, lojas 09/10/11/12/13A/13B",Guaio,08673-020,Lixo eletrônico,,,
+SP,Tamboré,SHOPPING TAMBORÉ,"Av. Piracema, 669 - Lojas Âncoras D1 e D2",Tamboré,06460-030,Lixo eletrônico,,,
+SP,São Vincente,BRISAMAR SHOPPING,"Rua Frei Gaspar, 365, SUC 312, nível III",Centro,11310-060,Lixo eletrônico,,,
+SP,Praia Grande,LITORAL SHOPPING,"Av. Ayrton Senna da Silva, 1.511 - Loja âncora A6",Intermarés,11726-000,Lixo eletrônico,,,
+SP,Santos,PRAIA DO GONZAGA,"Av. Ana Costa, 575/576 e Sobreloja",Gonzaga,11060-002,Lixo eletrônico,,,
+SP,Araçatuba,ARAÇATUBA SHOPPING,"Avenida Joaquim Pompeu de Toledo, 601 - lojas 28 e 29",Jardim Nova Yorque,16018-435,Lixo eletrônico,,,
+SP,Araraquara,SHOPPING JARAGUÁ,"Avenida Alberto Benassi, 2.270, loja âncora 27/28/29/30/31, piso térreo",Jardim Bandeirantes,"14804-
+300",Lixo eletrônico,,,
+SP,Bauru,BAURU SHOPPING,"Rua Henrique Savi, 15-55, loja UN-62",Vila Cidade Universitária,17011-900,Lixo eletrônico,,,
+SP,Guaratinguetá,BURITI SHOPPING GUARÁ,"Avenida Juscelino Kubitschek de Oliveira, 351, Guaratinguetá -
+SP",,,Lixo eletrônico,,,
+SP,Campinas,CENTRO - CAMPINAS,"Rua 13 de Maio, 520 - Centro - Campinas - SP",,,Lixo eletrônico,,,
+SP,Campinas,CAMPINAS SHOPPING CENTER,"Rua Jacy Teixeira de Camargo, nº 940 – ancora SCP00603, piso
+Térreo – Jardim do Lago, Campinas – SP",,,Lixo eletrônico,,,
+SP,Campinas,"SHOPPING IGUATEMI
+CAMPINAS","Av. Iguatemi, 777 - Loja ""E"" - Vila Brandina - Campinas - SP",,,Lixo eletrônico,,,
+SP,Campinas,"SHOPPING PARQUE DAS
+BANDEIRAS","Avenida John Boyd Dunlop, 3.900, Gleba 60, quarteirão 30020,
+loja âncora 3001, Jardim Ipaussurama, Campinas – SP",,,Lixo eletrônico,,,
+SP,Franca,FRANCA SHOPPING,"Avenida Rio Negro, 1.100, loja A-2 - Estação - Franca - SP",,,Lixo eletrônico,,,
+SP,Cotia,SHOPPING GRANJA VIANNA,"Rodovia Raposo Tavares, Km 23,5 – loja 205, Lageadinho, Cotia –
+SP",,,Lixo eletrônico,,,
+SP,Hortolândia,SHOPPING HORTOLÂNDIA,"Rua José Camilo de Camargo, 05 – loja âncora 211, Remanso
+Campineiro, Hortolândia – SP",,,Lixo eletrônico,,,
+SP,Itu,PLAZA SHOPPING ITU,"Avenida Doutor Ermelindo Maffei, 1199, loja 113, Jardim
+Paraíso, Itu - SP",,,Lixo eletrônico,,,
+SP,Jacareí,JACAREÍ SHOPPING,"Rua Olímpio Catão, 500 – loja 150, Centro, Jacareí – SP",,,Lixo eletrônico,,,
+SP,Jundiaí,MAXI SHOPPING JUNDIAÍ,"Av. Antônio Fred Ozanan, 6000 - loja 38 - Jardim Rio Branco -
+Jundiaí - SP",,,Lixo eletrônico,,,
+SP,Jundiaí,JUNDIAÍ SHOPPING,"Avenida 9 de Julho, s/n - loja 145, Alto do Anhangabaú, Jundiaí –
+SP",,,Lixo eletrônico,,,
+SP,Limeira,CENTER SHOPPING,"Rua Carlos Gomes, 1.321, loja 212, âncora 2, Centro, Limeira - SP",,,Lixo eletrônico,,,
+SP,Marília,MARILIA,"Rua dos Tucunarés, 500, loja âncora L-140, Jardim Maria
+Martha, Marília – SP",,,Lixo eletrônico,,,
+SP,Mogi Guaçu,BURITI SHOPPING MOGI GUAÇU,"Rua Francisco Franco de Godoy Bueno, 801 – loja 100/101,
+Centro, Mogi Guaçu – SP",,,Lixo eletrônico,,,
+SP,Presidente Prudente,PRUDENSHOPPING,"Avenida Manoel Goulart, 2400, loja âncora 246/247, Vila Santa
+Helena, Presidente Prudente - SP CEP",,19060-000,Lixo eletrônico,,,
+SP,Ribeirão Preto,SHOPPING RIBEIRÃO PRETO,"Av. Coronel Fernando Ferreira Leite, 1540 - loja 38 - Jardim
+Califórnia - Ribeirão Preto - SP CEP",,14026-020,Lixo eletrônico,,,
+SP,Rio Claro,SHOPPING RIO CLARO,"Avenida Conde Francisco Matarazzo Júnior, 205 - Âncora B, piso
+térreo, Vila Paulista, Rio Claro - SP CEP",,13506-845,Lixo eletrônico,,,
+SP,Ribeirão Preto,"NOVO SHOPPING RIBEIRÃO
+PRETO","Avenida Presidente Kennedy, 1.500, loja âncora ""S"", Ribeirânia,
+Ribeirão Preto - SP CEP",,14096-350,Lixo eletrônico,,,
+SP,São Carlos,"SHOPPING IGUATEMI SÃO
+CARLOS","Passeio dos Flamboyants, 200, loja 91, piso térreo, Parque
+Faber, São Carlos - SP CEP",,13561-352,Lixo eletrônico,,,
+SP,S.J dos Campos,CENTERVALE SHOPPING,"Av. Deputado Benedito Matarazzo, 9403 - Loja ""H"" - Jd. Oswaldo
+Cruz - S.J. dos Campos - SP CEP",,12216-580,Lixo eletrônico,,,
+SP,Sorocaba,SHOPPING CIANÊ,"Avenida Afonso Vergueiro, 823 – loja 104, Espaços Comerciais nº
+06 e 07, Centro, Sorocaba - SP CEP",,18035-370,Lixo eletrônico,,,
+SP,Votorantim,ESPLANADA SHOPPING,"Avenida Gisele Constantino, 1870, Box 230, 231, 232 e 233,
+Parque Morumbi, Votorantim - SP CEP",,18110-650,Lixo eletrônico,,,
+SP,Piracicaba,SHOPPING PIRACICABA,"Av. Limeira, 722 - loja âncora C, Vila Rezende - Piracicaba - SP
+CEP",,13414-900,Lixo eletrônico,,,
+SP,Jardim Marajó,SHOPPING CIDADE NORTE,"Avenida Alfredo Antônio de Oliveira, 2077 - Jardim Marajó CEP",,15046-335,Lixo eletrônico,,,
+SP,São José do Rio Preto,RIO PRETO SHOPPING,"Avenida Brigadeiro Faria Lima, 6.363, SUC 286, Bloco E, Jardim
+Morumbi, São José do Rio Preto - SP CEP",,15090-900,Lixo eletrônico,,,
+SP,Taubaté,SHOPPING TAUBATÉ,"Avenida Charles Schnneider, 1700, LUC A1, Piso Térreo, Vila
+Costa, Taubaté - SP CEP",,12040-900,Lixo eletrônico,,,
+SP,Santa Bárbara D'Oeste,TIVOLI SHOPPING,"Avenida Santa Bárbara, 777 - loja âncora 1, Vila Mollon, Santa
+Bárbara D'Oeste - SP CEP",,13456-080,Lixo eletrônico,,,
+SP,São José dos Campos,VALE SUL SHOPPING,"Avenida Andrômeda, 227, SUC 150, Jardim Satélite, São José dos
+Campos - SP",,12230-000,Lixo eletrônico,,,
+SP,São Paulo,Renner - Shopping Eldorado,"Av. Rebouças, 3970",Pinheiros,05402-000,Roupas,,,
+SP,São Paulo,Renner - Morumbi Shopping,"Av. Roque Petroni Júnior, 1089",Jardim das Acacias,04707-900,Roupas,,,
+SP,São Paulo,Renner - Center Norte,"Tv. Casalbuono, 120",Vila Guilherme,02047-050,Roupas,,,
+SP,Ribeirão Preto,Renner - Ribeirão Shopping,"Av. Cel. Fernando Ferreira Leite, 1540 - 30",Res. Florida,14026-020,Roupas,,,
+SP,São Paulo,Renner - Shopping Anália Franco,"Av. Reg. Feijó, 1739",Vila Reg. Feijó,03342-000,Roupas,,,
+SP,Campinas,Renner - Iguatemi Campinas,"Av. Iguatemi, 777",Vila Brandina,13092-500,Roupas,,,
+SP,Santos,Renner - Praiamar Shopping Center,"R. Alexandre Martins, 80",Aparecida,11035-260,Roupas,,,
+SP,São Paulo,Renner - Shopping Metrô Tatuapé,"R. Domingos Agostim, 91",Tatuapé,03306-010,Roupas,,,
+SP,São Paulo,Renner - Shopping Leste Aricanduva,"Avenida Aricanduva, 5555",Vila Matilde,03527-900,Roupas,,,
+SP,Campinas,Renner - Shopping Parque Dom Pedro,"Av. Guilherme Campos, 500",Jardim Santa Genebra,13087-901,Roupas,,,
+SP,São Paulo,Renner - Shopping Bourbon Pompéia,"R. Palestra Itália, 500",Perdizes,05005-030,Roupas,,,
+SP,São Paulo,Renner - Loja Av. Paulista,"Av. Paulista, 1106",Bela Vista,01311-100,Roupas,,,
+SP,São Paulo,Renner - Domingos de Moraes,"R. Domingos de Morais, 2668",Vila Mariana,04036-100,Roupas,,,
+SP,São Paulo,Renner - Shopping Iguatemi JK,"Av. Pres. Juscelino Kubitschek, 2041",Vila Nova Conceição,04543-011,Roupas,,,
+SP,Santo André,SHOPPING ABC,"Avenida Pereira Barreto, 42 - Loja Âncora 3",Vila Gilda,09190-210,Roupas,,,
+SP,Araçatuba,SHOPPING PRAÇA NOVA,"Avenida CARLOS PEREIRA DA SILVA, 6000 - LUC 106",Guanabara,16026-035,Roupas,,,
+SP,São Paulo,AUGUSTA,"Rua Augusta, 1.600",Consolação,01304-001,Roupas,,,
+SP,São Paulo,SHOPPING ANÁLIA FRANCO,Avenida Reg Feijo Nº 1739 - LOJA OQ 47 48 49 50,Vila Regente,03342-000,Roupas,,,
+SP,Araraquara,SHOPPING JARAGUA,"Avenida Alberto Benassi, 2.270, loja âncora 27/28/29/30/31, piso térreo",Jardim Bandeirantes,14804-300,Roupas,,,
+SP,,SHOPPING ARICANDUVA,"Avenida Aricanduva, 5555 - Loja Âncora 1",Jardim Aricanduva,03527-000,Roupas,,,
+SP,Bauru,BAURU SHOPPING,"Rua Henrique Savi, 15-55, loja UN-62",Vila Cidade Universitária,17011-900,Roupas,,,
+SP,Bragança Paulista,BRAGANÇA GARDEN SHOPPING,"Rodovia Alkindar Monteiro Junqueira KM 53, 1013 Loja Âncora, Piso L0",,12918-900,Roupas,,,
+SP,São Paulo,SHOPPING BOA VISTA SP,"Rua Borba Gato, 59 - Lojas L219 e L315",Santo Amaro,04747-030,Roupas,,,
+SP,São Vincente,SHOPPING BRISAMAR,"Rua Frei Gaspar, 365, SUC 312, nível III",Centro,,Roupas,,,
+SP,Botucatu,LOJA RUA DE BOTUCATU,"RUA AMANDO DE BARROS, 567",Centro,18600-050,Roupas,,,
+SP,Guaratinguetá,BURITI SHOPPING GUARÁ,"Avenida Juscelino Kubitschek de Oliveira, 351 - LUC's 01/02",,,Roupas,,,
+SP,Campinas,CAMPINAS - CENTRO,"RUA 13 DE MAIO, 520",Centro,,Roupas,,,
+SP,Campinas,CAMPINAS SHOPPING,"RUA JACY TEIXEIRA DE CAMARGO, Nº 940 – ANCORA SCP00603, PISO TÉRREO",Jardim do lago,,Roupas,,,
+SP,Campinas,SHOPPING IGUATEMI CAMPINAS,"Avenida IGUATEMI, 777 - LOJA ""E""",Vila Brandina,,Roupas,,,
+SP,São Paulo,CENTRAL PLAZA SHOPPING,"Avenida Francisco Mesquita N-1000 - Loja Âncora ""C""",Vila Prudente,,Roupas,,,
+SP,Campinas,SHOPP. PARQUE DAS BANDEIRAS,"Avenida John Boyd Dunlop, 3.900, Gleba 60, quarteirão 30020, loja âncora 3001",Jardim Ipaussurama,,Roupas,,,
+SP,Campinas,SHOPPING PARQUE DOM PEDRO,"Avenida Guilherme Campos, 500 – loja 013",Jardim Santa Genebra,,Roupas,,,
+SP,São Paulo,SHOPPING CAMPO LIMPO,"Estrada do Campo Limpo, 459 - loja âncora A-01",Vila Prel,,Roupas,,,
+SP,Diadema,SHOPPING PRAÇA DA MOÇA,"Rua Manoel da Nóbrega, 712 - lojas 241 e 301",Centro,,Roupas,,,
+SP,Franca,FRANCA SHOPPING,"Avenida Rio Negro, 1.100, loja A-2",Estação,,Roupas,,,
+SP,,"SHOPPING CENTER
+FERNANDÓPOLIS",Avenida LITERIO GRECCO NÚMERO 600,,,Roupas,,,
+SP,Guarulhos,SHOPPING BONSUCESSO,"Estrada Presidente Juscelino Kubitschek de Oliveira, 5308 - loja âncora C",Jardim Albertina,,Roupas,,,
+SP,Guarulhos,PARQUE SHOPPING MAIA,"Avenida Bartholomeu de Carlos, 230 – SUC2004",Jardim Flor da Montanha,,Roupas,,,
+SP,Guarulhos,SHOPPING INTERNACIONAL,"Rua Engenheiro Camilo Olivetti, 295 - SUC R01 - R01A2 - M01 - M02",Itapegica,,Roupas,,,
+SP,Guarulhos,GUARULHOS CENTRO,"Rua Dom Pedro II ,06",Centro,,Roupas,,,
+SP,Cotia,SHOPPING GRANJA VIANNA,"Rodovia Raposo Tavares, Km 23,5 – loja 205",Lageadinho,,Roupas,,,
+SP,Hortolândia,SHOPPING HORTOLANDIA,"Rua José Camilo de Camargo, 05 – loja âncora 211",Remanso Campineiro,,Roupas,,,
+SP,São Paulo,SHOPPING IBIRAPUERA,"Avenida Ibirapuera, 3103 - lojas 4 e 5",Indianópolis,,Roupas,,,
+SP,Barueri,SHOPPNG IGUATEMI ALPHAVILLE,"Alameda Rio Negro, 111 – lojas 337, 338, 339, 340 e 341",Alphavile Industrial,,Roupas,,,
+SP,São Paulo,SHOPPING IGUATEMI SP,"Avenida Brigadeiro Faria Lima, 2.232 Loja ES 01",Jardim Paulistano,,Roupas,,,
+SP,Idaiatuba,POLO SHOPPING INDAIATUBA,"Alameda Filtros Mann, s/nº, loja A04",Pimenta,,Roupas,,,
+SP,São Paulo,C-SHOPPING INTERLAGOS,"Avenida Interlagos, 2255 - Loja ""Arco A""",Campo Grande,,Roupas,,,
+SP,Itapetininga,ITAPE SHOPPING,RUA DOUTOR COUTINHO 733,Centro,18200-358,Roupas,,,
+SP,Itu,PLAZA SHOPPING ITU,"Avenida Doutor Ermelindo Maffei, 1199, loja 113",Jardim Paraíso,,Roupas,,,
+SP,Jacareí,JACAREÍ SHOPPING,"Rua Olímpio Catão, 500 – loja 150",Centro,,Roupas,,,
+SP,Jundiaí,MAXI SHOPPING,"Avenida Antônio Fred Ozanan, 6000 - loja 38",Jardim Rio Branco,,Roupas,,,
+SP,Jundiaí,JUNDIAÍ SHOPPING,"Avenida 9 de Julho, nº 3333 - loja 145",Alto do Anhangabaú,,Roupas,,,
+SP,São Paulo,SHOPPING JARDIM SUL,"Avenida Giovanni Gronchi, 5819 - LUC 001",Vila Andrade,,Roupas,,,
+SP,Limeira,SHOPPING PÁTIO LIMEIRA,"Rua Carlos Gomes, 1.321, loja 212, âncora 2",Centro,,Roupas,,,
+SP,Marília,MARILIA SHOPPING CENTER,"Rua dos Tucunarés, 500, loja âncora L-140",Jardim Maria Martha,,Roupas,,,
+SP,Mauá,MAUA PLAZA SHOPPING,"Avenida Governador Mário Covas Júnior, 01 - loja 151",Jardim Rosina,,Roupas,,,
+SP,Mogi Guaçu,BURITI SHOPPING MOGI GUAÇU,"Rua Francisco Franco de Godoy Bueno, 801 – loja 100/101",Centro,,Roupas,,,
+SP,Mogi das Cruzes,SHOPPING MOGI,"Avenida Vereador Narciso Yague Guimarães, 1.001, loja A 27",Jardim Armênia,,Roupas,,,
+SP,São Paulo,SHOPPING MORUMBI,"Avenida Roque Petroni Júnior, 1089 - loja 1",Vila São Francisco,,Roupas,,,
+SP,Osasco,OSASCO CENTRO,"Rua Antônio Agú, 487",Centro,,Roupas,,,
+SP,Osasco,SHOPPING UNIÃO,"Avenida dos Autonomistas, 1.400, loja âncora ""M""",Vila Yara,,Roupas,,,
+SP,Osasco,SUPER SHOPPING OSASCO,"Avenida dos Autonomistas, 1828 - Piso 2",Osasco,06090-010,Roupas,,,
+SP,São Paulo,SHOPPING PENHA,"Rua Doutor João Ribeiro, 304 Lojas Âncoras C e F",Penha de França,03634-900,Roupas,,,
+SP,Praia Grande,LITORAL SHOPPING,"Avenida Ayrton Senna da Silva, 1.511 - Loja âncora A6",Intermarés,11726-000,Roupas,,,
+SP,Presidente Prudente,PRUDENSHOPPING,"Avenida Manoel Goulart, 2400, loja âncora 246/247",Vila Santa Helena,19060-000,Roupas,,,
+SP,Jardim Santo André,ABC PLAZA SHOPPING,"Avenida Industrial, 600 - Espaço Comercial 223, 224 e 228",,09080-500,Roupas,,,
+SP,Barueri,PARQUE SHOPPING BARUERI,"Rua General de Divisão de Pedro Rodrigues da Silva, 400 – loja 2037, piso L02",Aldeia,06440-180,Roupas,,,
+SP,Carapicuíba,PLAZA SHOPPING CARAPICUÍBA,Estrada Ernestina Vieira 149,Vila Silvania,06382--260,Roupas,,,
+SP,Ribeirão Preto,RIBEIRAO SHOPPING,"Avenida Coronel Fernando Ferreira Leite, 1540 - loja 38",Jardim Califórnia,14026-020,Roupas,,,
+SP,Rio Claro,RIO CLARO SHOPPING,"Avenida Conde Francisco Matarazzo Júnior, 205 - Âncora B",Vila Paulista,13506-845,Roupas,,,
+SP,Ribeirão Preto,NOVO SHOPPING,"Avenida Presidente Kennedy, 1.500, loja âncora ""S""",Ribeirânia,14096-350,Roupas,,,
+SP,São Paulo,RAPOSO SHOPPING,"Rodovia Raposo Tavares, s/nº, Km 14,5 - lojas 3001 e 3002",Jardim Olympia,05576-970,Roupas,,,
+SP,São Paulo,SANTANA PARQUE SHOPPING,"Rua Conselheiro Moreira de Barros, 2780, loja 2011 - 2º pavimento",Mandaqui,02430-001,Roupas,,,
+SP,São Bernardo do Campo,SAO BERNARDO DO CAMPO,"Rua: Marechal Deodoro, 1078",Centro,09710-001,Roupas,,,
+SP,Vila Marlene,GOLDEN SQUARE SHOPPING,"Avenida Kennedy, 700 - São Bernardo do Campo - Loja ancora piso L1 E L2",Vila Marlene,09726-901,Roupas,,,
+SP,São Bernardo do Campo,SHOPPING METRÓPOLE,"Praça Samuel Sabatini, 200, loja LSU-4",Centro,09750-902,Roupas,,,
+SP,São Paulo,SÃO BENTO,"R. São Bento, 230",Centro histórico de São Paulo,01010-000,Roupas,,,
+SP,São Paulo,SHOPPING BOURBON POMPÉIA,"Rua Turiassu, 2.100, loja 117, 2º piso",Perdizes,05005-900,Roupas,,,
+SP,São Bernardo,SHOPPING SÃO BERNARDO PLAZA,"Avenida Albert Schweitzer, 256 – loja 1046",Ferrazópolis,09790-000,Roupas,,,
+SP,São Carlos,SHOPP. IGUATEMI SAO CARLOS,"Passeio dos Flamboyants, 200, loja 91, piso térreo",Parque Faber,13561-352,Roupas,,,
+SP,São Paulo,SHOPPING CENTER NORTE,"Travessa Casalbuono, 120 - loja 610",Vila Guilherme,02047-050,Roupas,,,
+SP,,PARK SHOPPING SÃO CAETANO,"Alameda Terracota, 545, loja 1007/2007",Cerâmica,09531-190,Roupas,,,
+SP,Jardim Pirituba,CANTAREIRA NORTE SHOPPING,"Endereço: Avenida Raimundo Pereira de Magalhães, 11.001 – loja 1002/2002",Jardim Pirituba,02984-035,Roupas,,,
+SP,Itapecerica da Serra,SHOPPING ITAPECERICA,"Avenida Quinze de Novembro, 89 – loja âncora L2015",Centro,06850-100,Roupas,,,
+SP,Itaquera,SHOPPING METRO ITAQUERA,"Avenida José Pinheiro Borges, s/nº - lojas 101/201, Gleba I",Itaquera,08220-900,Roupas,,,
+SP,São José dos Campos,CENTER VALE SHOPPING,"Avenida Deputado Benedito Matarazzo, 9403 - Loja ""H""",Jardim Oswaldo Cruz,12216-580,Roupas,,,
+SP,São José dos Campos,SHOPPING JARDIM ORIENTE,"Rua Andorra, 500 – Loja âncora piso térreo",Jardim América,12235-050,Roupas,,,
+SP,São Paulo,SHOPPING MAIS,"R. Etelvino Pedro dos Santos, 25",Jardim Imbé,05863-080,Roupas,,,
+SP,São Paulo,MOOCA PLAZA SHOPPING,"Rua Capitão Pacheco e Chaves, 313 – loja 2049",Vila Prudente,03126-000,Roupas,,,
+SP,Sorocaba,SHOPPING PÁTIO CIANÊ,"Avenida Afonso Vergueiro, 823 – loja 104, Espaços Comerciais nº 06 e 07",Centro,18035-370,Roupas,,,
+SP,Votorantim,ESPLANADA SHOPP. SOROCABA,"Avenida Gisele Constantino, 1870, Box 230, 231, 232 e 233",Parque Morumbi,18110-650,Roupas,,,
+SP,São Paulo,SHOPPING D,"Avenida Cruzeiro do Sul, 1.100, SUC 2000, 2º piso",Canindé,03033-020,Roupas,,,
+SP,São Paulo,SHOPPING ELDORADO,"Avenida Rebouças, 3970, lojas 231 a 234, 236A, 239, 246 e 279, 1º Piso",Pinheiros,05402-918,Roupas,,,
+SP,Piracicaba,SHOPPING PIRACICABA,"Avenida Limeira, 722 - loja âncora C",Vila Rezende,13414-900,Roupas,,,
+SP,São Paulo,SHOPPING SP MARKET,"Avenida das Nações Unidas, 22.540, loja A7 - 17/18/19, Bloco C",Vila Almeida,04795-000,Roupas,,,
+SP,São Paulo,SHOPING PLAZA SUL,"Pça. Leonor Kaupa, 100 - lojas 119 e 225",Jardim da Saúde,04151-100,Roupas,,,
+SP,São José do Rio Preto,SHOPPING CIDADE NORTE,"Avenida Alfredo Antônio de Oliveira, 2077",Jardim Marajó,15046-335,Roupas,,,
+SP,São José do Rio Preto,SHOPPING RIO PRETO,"Avenida Brigadeiro Faria Lima, 6.363, SUC 286, Bloco E",Jardim Morumbi,15090-900,Roupas,,,
+SP,Santo André,SANTO ANDRE CENTRO,"Rua Campos Salles, 235/247",Centro,09015-200,Roupas,,,
+SP,São Paulo,"SHOPPING TRIMAIS HIPER
+CENTER",Avenida TUCURUVI Nº: 248,Tucuruvi,02304-000,Roupas,,,
+SP,Santos,CONJTO ATLANTICO,"Avenida Ana Costa, 575/576 e Sobreloja",Gonzaga,11060-002,Roupas,,,
+SP,Suzano,SHOPPING SUZANO,"Rua Sete de Setembro, 555, lojas 09/10/11/12/13A/13B",Guaio,08673-020,Roupas,,,
+SP,Taboão da Serra,SHOPPING TABOAO DA SERRA,"Rodovia Regis Bittencourt, Km 271,5 s/n.",Vila das Oliveiras,06768-200,Roupas,,,
+SP,São Paulo,SHOPPING METRO TATUAPE,"Rua Domingos Agostin, 91 - Loja Âncora 2",Tatuapé,03306-010,Roupas,,,
+SP,Barueri,SHOPPING TAMBORE,"Avenida Piracema, 669 - Lojas Âncoras D1 e D2",Tamboré,06460-030,Roupas,,,
+SP,Taubaté,SHOPPING TAUBATÉ,"Avenida Charles Schnneider, 1700, LUC A1, Piso Térreo",Vila Costa,12040-900,Roupas,,,
+SP,Santa Bárbara D'Oeste,SHOPPING TIVOLI,"Avenida Santa Bárbara, 777 - loja âncora 1",Vila Mollon,13456-080,Roupas,,,
+SP,São Paulo,SHOPPING TIETÊ PLAZA,"Avenida Raimundo Pereira de Magalhães, 1465 – loja âncora 1000",Jardim Íris,05145-000,Roupas,,,
+SP,São José dos Campos,SHOPPING VALE SUL,"Avenida Andrômeda, 227, SUC 150",Jardim Satélite,12230-000,Roupas,,,
+SP,São Paulo,SHOPPING WEST PLAZA,"Pça. Tomas Morus, 408 - Bloco B - Térreo - lj.201",Água Branca,05003-090,Roupas,,,
+SP,Campinas,Enxuto Supemercados,"Avenida John Boyd Dunlop, 440",Jardim Aurélia,13033-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,Santo André,Errejota bar,"Alameda São Caetano, 366",Jardim,09070-210,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,Santo André,Muquiranas,"Rua das Figueiras, 130",Campestre,09080-300,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Bar Aurora,"Rua Professor Atílio Innocenti, 277",Vila Nova Conceição,04538-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Santa Julia,"Alameda Raja Gabaglia, 129",Vila Olímpia,04551-090,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Kia Ora,"Rua Doutor Eduardo de Souza Aranha, 377",Vila Nova Conceição,04543-121,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Pra Ti Faria,"Avenida Brigadeiro Faria Lima, 2627",Jardim Paulistano,01452-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Pasquim Bar E Prosa,"Rua Domingos Fasolari, 22",Casa Verde,02513-010,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Vero Piazza Bar,"Praça dos Omaguás, 62",Pinheiros,05419-020,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Pasquim Bar E Prosa,"Rua Fradique Coutinho, 1097",Pinheiros,05416-011,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,A Mata,"Rua Cunha Gago, 832",Pinheiros,05421-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Iscondido Bar,"Rua Lisboa, 449",Cerqueira César,05413-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Pasquim Bar E Prosa,"Rua Ibipetuba, 204",Parque da Mooca,03127-180,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Templo Bar,"Rua Guaimbé, 322",Mooca,03118-030,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Martin Bar,"Rua Apucarana, 1490",Tatuapé,03311-001,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Cave Pool,"Avenida Eliseu de Almeida, 984",Instituto de Previdência,05533-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Tata Japa,"Rua João Cachoeira, 278",Vila Nova Conceição,04535-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Blue's Bear,"Rua Heliodora, 390",Santana,02022-051,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Banri,"Rua Galvão Bueno, 160",Liberdade,01506-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Casa de Francisca,"Rua Quintino Bocaiúva, 22",Sé,01004-010,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Casa Do porco,"Rua Araújo, 124",República,01220-020,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Deus X Machine,"Avenida Rebouças, 3658",Pinheiros,05402-600,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Rock Wheels,"Rua Bráz Cubas, 168",Aclimação,04109-040,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Gula Bar,"Avenida Almirante Delamare, 592",Cidade Nova Heliópolis,04230-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Stunt Burguer,"Rua José Jannarelli, 426",Vila Progredior,05615-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,The Blue Pub,"Alameda Ribeirão Preto, 384",Bela Vista,01331-000,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Whyplash,"Rua Melo Alves, 74",Cerqueira César,01417-010,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Sororoca Bar,"Rua Simão Álvares, 785",Pinheiros,05417-030,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Pappa Gallo,"Alameda Jaú, 1372",Jardim Paulista,01420-004,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Lúdico,"Rua Joaquim Távora, 1113",Vila Mariana,04015-002,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,O Burguer,"Avenida Moaci, 806",Planalto Paulista,04083-002,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Stell Bar,"Alameda dos Jurupis, 1806",Indianópolis,04088-006,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,São Paulo,Castro Bar,"Rua Joaquim Távora, 1517",Vila Mariana,04015-003,Garrafas de vidro,07:00 - 22:00,07:00 - 22:00,Heineken
+SP,Aruja,Cooperativa Cora,"SP/ARUJA - BAIRRO DO PORTÃO - COOPERATIVA CORA - ASSOCIAÇÃO DOS TRABALHADORES DE MAT. REC. DE ARUJÁ - AVENIDA LONDRES, 240",Bairro do Portão,,Cápsulas de café,,,
+SP,Barueri,Loja Pão de Açucar 1,"SP/BARUERI - CENTRO - LOJA PÃO DE AÇÚCAR - ALAMEDA MADEIRA, 152",Centro,,Cápsulas de café,,,
+SP,Barueri,Cooperativa Cooperyara,"SP/BARUERI - JARDIM CALIFÓRNIA - COOPERATIVA COOPERYARA - COOP. DE TRAB. DOS PROF. DE REC. DO MUN. DE BARUERI E REGIÃO - ESTRADA DOUTOR CICERO BORGES DE MORAES , 3517",Jardim Califórnia,,Cápsulas de café,,,
+SP,Barueri,Loja Pão de Açucar 2,"SP/BARUERI - TAMBORÉ - LOJA PÃO DE AÇÚCAR - AV. MARCOS PENTEADO DE ULHOA RODRIGUES, 3212,",Tamboré,,Cápsulas de café,,,
+SP,Biritiba Mirim,Cooperativa Cooperalto,"SP/BIRITIBA MIRIM - BAIRRO DO SOGO - COOPERATIVA COOPERALTO - COOP.DE REC. DE MAT. PRIMA DO ALTO TIETÊ - ESTRADA DO SOGO, 183",Bairro do Sogo,,Cápsulas de café,,,
+SP,Campinas,Loja Pão de Açucar 3,"SP/CAMPINAS - CAMBUÍ - LOJA PÃO DE AÇÚCAR - AV. GAL OSÓRIO, 1844",Cambuí,,Cápsulas de café,,,
+SP,Campinas,Loja Pão de Açucar 4,"SP/CAMPINAS - GUANABARA - LOJA PÃO DE AÇÚCAR - AV. BARÃO DE ITAPURA, 2233,",Guanabara,,Cápsulas de café,,,
+SP,Campinas,Boutique Nespresso Miami Store,"SP/CAMPINAS - TAQUARAL - BOUTIQUE NESPRESSO MIAMI STORE - RUA CASTRO ALVES, 508, TÉRREO, TAQUARAL, CAMPINAS/SP - CEP: 13076-040",Taquaral,,Cápsulas de café,,,
+SP,Campinas,Boutique Nespresso Iguatemi,"SP/CAMPINAS - VILA BRANDINA - BOUTIQUE NESPRESSO IGUATEMI CAMPINAS - AVENIDA IGUATEMI, 777 – PISO 1; LOJA 124, 125, 126, VILA BRANDINA, CAMPINAS/SP - CEP: 13092-902",Vila Brandina,,Cápsulas de café,,,
+SP,Cotia,Cooperativa Coopernova,"SP/COTIA - JARDIM RIO DAS PEDRAS - COOPERATIVA COOPERNOVA COTIA RECICLA - ESTRADA MANOEL LAGES DO CHÃO , 590",Jardim Rio das Pedras,,Cápsulas de café,,,
+SP,Diadema,Cooperativa Nova Conquista,"SP/DIADEMA - PIRAPORINHA - COOPERATIVA NOVA CONQUISTA - TRAVESSA ETCD, 80",Piraporinha,,Cápsulas de café,,,
+SP,Diadema,Cooperativa Cooperfenix,"SP/DIADEMA - TABOÃO - COOPERATIVA COOPERATIVA COOPERFENIX - AVENIDA PRESTES MAIA, 2080",Taboão,,Cápsulas de café,,,
+SP,Guarulhos,Cooperativa Coop Recicláveis,"SP/GUARULHOS - JARDIM SÃO GERALDO - COOPERATIVA COOP. RECICLÁVEL - COOPERATIVA DE TRABALHO DOS CATADORES DA ÁREA DE MATERIAL RECICLÁVEL DE GUARULHOS - RUA ESTRELA D´OESTE , 120",Jardim São Geraldo,,Cápsulas de café,,,
+SP,Guarulhos,Cooperativa Guarulhos Recicla,"SP/GUARULHOS - VILA ROSALIA - COOPERATIVA GUARULHOS RECICLA - RUA IPIRANGA, 517",Via Rosália,,Cápsulas de café,,,
+SP,Guarulhos,Cooperativa Recicla Mais Guarulhos,"SP/GUARULHOS - VILA SÃO RAFAEL - COOPERATIVA RECICLA MAIS GUARULHOS - RUA SANTA ANGELINA, 767",Vila São Rafael,,Cápsulas de café,,,
+SP,Itapevi,Cooperativa CMR,"SP/ITAPEVI - JARDIM PORTELA - COOPERATIVA CMR ITAPEVI - COOPERATIVA DE PROD. DOS CATADORES DE MATERIAIS RECICLÁVEIS DE ITAPEVI - ESTR. ARACARIGUAMA, 1086",Jardim Portela,,Cápsulas de café,,,
+SP,Jundia i,Boutique Nespress Jundiaí Shopping,"SP/JUNDIAÍ - ANHANGABAU - BOUTIQUE NESPRESSO JUNDIAÍ SHOPPING - AV. NOVE DE JULHO, 3333 – LUC NÚMERO 272; PISO JUNDIAÍ L2 (JUNDIAÍ SHOPPING), ANHANGABAU, JUNDIAÍ/SP - CEP: 13208-056",Anhangabu,,Cápsulas de café,,,
+SP,Mauá,Cooperativa Coopercata,"SP/MAUÁ - CAPUAVA - COOPERATIVA COOPERCATA - COOPERATIVA DE CATADORES DE PAPEL, PAPELÃO E MATERIAIS RECICLÁVEIS DO MUNICÍPIO DE MAUÁ - RUA PEDRO LUIZ COPINI , 113",Capuava,,Cápsulas de café,,,
+SP,Mogi das Cruzes,Cooperativa Rede Cata Sampa,"SP/MOGI DAS CRUZES - JUNDIAPEBA - COOPERATIVA REDE CATA SAMPA - REDE DE COOP. DE CATADORES DE MATERIAL RECICLÁVEL - UNIDADE DE TRIAGEM - RUA CECÍLIA DA ROCHA , 304",Jundiapeba,,Cápsulas de café,,,
+SP,Osasco,Cooperativa Cooperareis,"SP/OSASCO - INDUSTRIAL ANHANGÜERA - COOPERATIVA COOPERAREIS - RUA HENKEL, 80",Industrial Anhanguera,,Cápsulas de café,,,
+SP,Osasco,Cooperativa Coopermundi,"SP/OSASCO - JD GUAÇU - COOPERATIVA COOPERMUNDI - RUA ALFREDO BENICASA, 100",Jardim Guaçu,,Cápsulas de café,,,
+SP,Ribeirão Pires,Cooperativa Cooperpires,"SP/RIBEIRÃO PIRES - ALIANÇA - COOPERATIVA COOPERPIRES - R. PROF. RENATO ANDREGHETO, 55",Aliança,,Cápsulas de café,,,
+SP,Ribeirão Preto,Boutique Nespresso Ribeirão Preto,"SP/RIBEIRÃO PRETO - JARDIM CALIFÓRNIA - BOUTIQUE NESPRESSO RIBEIRÃO PRETO SHOPPING - AVENIDA CORONEL FERNANDO FERREIRA LEITE, 1540 - LOJA 255, PISO TERRA VERMELHA, JARDIM CALIFÓRNIA, RIBEIRÃO PRETO/SP - CEP: 14026-900",Jardim Califórnia,,Cápsulas de café,,,
+SP,Salesopólis,Cooperativa Cooperares,"SP/SALESOPOLIS - CENTRO - COOPERATIVA COOPERARES - RUA VINTE E OITO DE FEVEREIRO, 700",Centro,,Cápsulas de café,,,
+SP,Santana de Parnaíba,Loja Pão de Açucar 5,"SP/SANTANA DE PARNAIBA - ALPHAVILLE - LOJA PÃO DE AÇÚCAR - AV. MARTE 624,",Alphaville,,Cápsulas de café,,,
+SP,Santana de Parnaíba,Cooperativa Avemare,"SP/SANTANA DE PARNAÍBA - BAIRRO JARDIM SÃO LUIZ - COOPERATIVA AVEMARE - RUA ALEMANHA, 44",Bairro Jardim São Luiz,,Cápsulas de café,,,
+SP,Santos,Boutique Nespresso Praiamar Shopping,"SP/SANTOS - APARECIDA - BOUTIQUE NESPRESSO PRAIAMAR SHOPPING - RUA ALEXANDRE MARTINS, 80 QUIOSQUE AUC108 NIVEL I, APARECIDA, SANTOS/SP - CEP:11025-200",Aparecida,,Cápsulas de café,,,
+SP,São Bernardo do Campo,Cooperativa Reluz,"SP/SÃO BERNARDO DO CAMPO - ALVES DIAS - COOPERATIVA RELUZ - COOPERATIVA DE TRABALHODOS CATADORES EM COLETA E TRIAGEM DE MATERIAIS RECICLÁVEIS - ESTRADA DA COOPERATIVA, 711",Alves Dias,,Cápsulas de café,,,
+SP,São Bernardo do Campo,Cooperativa Cooperluz,"SP/SÃO BERNARDO DO CAMPO - COOPERATIVA (DOS CASA) - COOPERATIVA COOPERLUZ - ESTRADA YAE MASSUMOTO, 470",,,Cápsulas de café,,,
+SP,São Caetano do Sul,Boutique Nespresso Park Shopping,"SP/SÃO CAETANO DO SUL - ESPAÇO CERÂMICA - BOUTIQUE NESPRESSO PARK SHOPPING SÃO CAETANO - ALAMEDA TERRACOTA, 545 - PISO PSC 19, ESPAÇO CERÂMICA, SÃO CAETANO DO SUL/SP - CEP: 09531-190",,,Cápsulas de café,,,
+SP,São Caetano do Sul,Cooperativa Colheitar,"SP/SÃO CAETANO DO SUL - PROSPERIDADE - COOPERATIVA COLHEITAR - RUA SAFIRA, 35",Proesperidade,,Cápsulas de café,,,
+SP,São Caetano do Sul,Cooperativa COOPTRESC,"SP/SÃO CAETANO DO SUL - PROSPERIDADE - COOPERATIVA COOPTRESC - AVENIDA DO ESTADO, 4200",Proesperidade,,Cápsulas de café,,,
+SP,São Caetano do Sul,Loja Pão de Açucar 6,"SP/SÃO CAETANO DO SUL - SANTA PAULA - LOJA PÃO DE AÇÚCAR - RUA MARANHÃO, 975,",Santa Paula,,Cápsulas de café,,,
+SP,São José dos Campos,Boutique Nespresso Center Vale,"SP/SÃO JOSÉ DOS CAMPOS - JARDIM OSWALDO CRUZ - BOUTIQUE NESPRESSO CENTER VALE SÃO JOSÉ DOS CAMPOS - AV DEPUTADO BENEDITO MATARAZZO, 9403 - PISO DUTRA LUC QD08 E LUC DE40, JARDIM OSWALDO CRUZ, SÃO JOSÉ DOS CAMPOS/SP - CEP: 12216-580",Jardim Oswaldo Cruz,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 7,"SP/SÃO PAULO - VILA LEOPOLDINA - LOJA PÃO DE AÇÚCAR - AVENIDA IMPERTARIZ LEOPOLDINA , 845 - VILA LEOPOLDINA",Vila Leolpodina,,Cápsulas de café,,,
+SP,São Paulo,Cooperativa Vivabem,"SP/SÃO PAULO - ÁGUA BRANCA - COOPERATIVA COOPERATIVA VIVABEM - AVENIDA PRESIDENTE CASTELO BRANCO, 7729",Água Branca,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 8,"SP/SÃO PAULO - ALTO DA LAPA - LOJA PÃO DE AÇÚCAR - R. BAIRI, 435,",Alto da lapa,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 9,"SP/SÃO PAULO - ALTO DE PINHEIROS - LOJA PÃO DE AÇÚCAR - PÇA. PANAMERICANA,190,",Alto de pinheiros,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 10,"SP/SÃO PAULO - ALTO DE PINHEIROS - LOJA PÃO DE AÇÚCAR - PRAÇA PANAMERICANA, 190,",Alto de pinheiros,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 11,"SP/SÃO PAULO - ALTO DE PINHEIROS - LOJA PÃO DE AÇÚCAR - PRAÇA PANAMERICANA, 217,",Alto de pinheiros,,Cápsulas de café,,,
+SP,São Paulo,Boutique Nespresso Pátio Paulista,"SP/SÃO PAULO - BELA VISTA - BOUTIQUE NESPRESSO PÁTIO PAULISTA - RUA TREZE DE MAIO, 1933; LOJAS 305,306 E 307 PISO PAULISTA, BELA VISTA, SÃO PAULO/SP - CEP: 01327-900",Bela Vista,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 12,"SP/SÃO PAULO - BELA VISTA - LOJA PÃO DE AÇÚCAR - RUA PEDROSO, 215",Bela Vista,,Cápsulas de café,,,
+SP,São Paulo,Cooperativa Vitória do Belém,"SP/SÃO PAULO - BELENZINHO - COOPERATIVA COOPERATIVA VITÓRIA DO BELÉM - RUA ARISTON DE AZEVEDO , 10",Belenzinho,,Cápsulas de café,,,
+SP,São Paulo,Boutique Nespresso Morumbi,"SP/SÃO PAULO - BROOKLIN - BOUTIQUE NESPRESSO MORUMBI - AVENIDA ROQUE PETRONI JUNIOR, 1089 – PISO TÉRREO – LOJA 081-T, BROOKLIN, SÃO PAULO/SP - CEP: 04707-000",Brooklin,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 13,"SP/SÃO PAULO - BROOKLIN - LOJA PÃO DE AÇÚCAR - AV. SANTO AMARO, 4530,",Brooklin,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 14,"SP/SÃO PAULO - BROOKLIN - LOJA PÃO DE AÇÚCAR - AV.SANTO AMARO, 3271,",Brooklin,,Cápsulas de café,,,
+SP,São Paulo,Cooperativa Cooper Trabalhadres CSRR,"SP/SÃO PAULO - BUTANTÃ (JARDIM OLYMPIA/ VILA ALBANO) - COOPERATIVA COOPER TRABALHADORES CSRR BUTANTÃ - RUA NELLA MURARI ROSA, 40",Butantã,,Cápsulas de café,,,
+SP,São Paulo,Cooperativa Associação Nova Glicério,"SP/SÃO PAULO - CAMBUCI - COOPERATIVA ASSOCIAÇÃO NOVA GLICÉRIO - AVENIDA DO ESTADO, 4434",Cambuci,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 15,"SP/SÃO PAULO - CASA VERDE - LOJA PÃO DE AÇÚCAR - R. BERNARDINO FANGANIELLO, 349,",Casa Verde,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - CERQUEIRA CESAR - BOUTIQUE NESPRESSO OSCAR FREIRE - RUA OSCAR FREIRE, 953, CERQUEIRA CESAR, SÃO PAULO/SP - CEP: 01426-003",Cerqueira Cesar,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 16,"SP/SÃO PAULO - CID. MONÇÕES - LOJA PÃO DE AÇÚCAR - R. PE.ANTONIO JOSÉ DOS SANTOS, 872,",Cid. Monções,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 17,"SP/SÃO PAULO - CIDADE JARDIM - LOJA PÃO DE AÇÚCAR - AV. MAGALHÃES DE CASTRO, Nº 6118",Cidade Jardim,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - CITY JARAGUA - COOPERATIVA COOPERCITY JARAGUÁ - COOPERATIVA DE TRABALHO E PRODUÇÃO DE COLETA E TRIAGEM DE MATERIAL RECICLÁVEL - CITY JARAGUA - RUA OSCAR PANDER , 100",City Jaraguá,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - CONJ. PROMORAR RIO CLARO - COOPERATIVA COOPERATIVA DE TRABALHADORES COM MATERIAIS REAPROVEITÁVEIS E RECICLÁVEIS CHICO MENDES - RUA CINIRA POLÔNIO, 369",Conjunto Promorar Rio Claro,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 18,"SP/SÃO PAULO - COTIA - LOJA PÃO DE AÇÚCAR - RODOVIA RAPOSO TAVARES, KM 23 AREA B,",Cotia,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 19,"SP/SÃO PAULO - ESTACAO SANTO AMARO - LOJA PÃO DE AÇÚCAR - AV. WASHINGTON LUIZ, 3919",,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - GUAIANAZES - COOPERATIVA COOPERATIVA DE PRODUÇÃO, COLETA E TRIAGEM DE MATERIAIS RECICLÁVEIS DE VITÓRIA DA PENHA - RUA CHAPADA DIAMANTINA , 328",Guaianazes,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - HIGIENÓPOLOIS - BOUTIQUE NESPRESSO HIGIENÓPOLIS - AVENIDA HIGIENÓPOLIS, 618 – PISO PACAEMBU; LOJA 275, HIGIENÓPOLIS, SÃO PAULO/SP - CEP: 01238-000",Higienópolis,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 20,"SP/SÃO PAULO - HIGIENÓPOLOIS - LOJA PÃO DE AÇÚCAR - R. MARANHÃO, 846 - HIGIENÓPOLOIS",Higienópolis,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 21,"SP/SÃO PAULO - ITAIM BIBI - LOJA PÃO DE AÇÚCAR - R. JOAQUIM FLORIANO, 24,",Itaim bibi,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 22,"SP/SÃO PAULO - ITAIM BIBI - LOJA PÃO DE AÇÚCAR - RUA CLODOMIRO AMAZONAS, 955,",Itaim bibi,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 23,"SP/SÃO PAULO - JABAQUARA - LOJA PÃO DE AÇÚCAR - AV. ENGENHEIRO ARMANDO ARRUDA PEREIRA, 2022,",Jabaquara,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 24,"SP/SÃO PAULO - JARDIM - LOJA PÃO DE AÇÚCAR - RUA DAS GOIABEIRAS, 359",Jardim,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM ALTO ALEGRE - COOPERATIVA ASSOCIAÇÃO 28 (VINTE E OITO) - COMUNIDADE ESPERANÇA - RUA BOA ESPERANÇA , 78 - ALTURA DA AVENIDA SAPOPEMBA, 19477",Jardim alto alegre,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM LETÍCIA - COOPERATIVA COOPERATIVA PONTE BAIXA (FILIAL DA COOPER PAC) - RUA PEDRO ARMANI, 250",Jardim Letícia,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM MATARAZZO - COOPERATIVA COOPERATIVA RAINHA DA RECICLAGEM - RUA JAPICHAUA , 313",Jardim Matarazzo,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM NOVE DE JULHO - COOPERATIVA CASA DO CATADOR - COOPERATIVA DE TRABALHO E SERVIÇOS DE GESTÃO INTEGRADA EM RESÍDUOS SÓLIDOS - ESTRADA FAZENDA DO CARMO , 450",Jardim Nove de Julho,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM PAULISTA - BOUTIQUE NESPRESSO IGUATEMI SP​ - AVENIDA BRIGADEIRO FARIA LIMA, 2232 -LOJA P-06 PISO 2, JARDIM PAULISTA, SÃO PAULO/SP - CEP: 01451-001",Jardim Paulista,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM SANTO ANTÔNIO - COOPERATIVA COOPERATIVA CAMINHO CERTO - RUA JEQUIRANA DE GOIÁS, 113",Jardim Santo Antônio,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JARDIM SATÉLITE - COOPERATIVA COOPER PAC - COOPERATIVA DE CATADORES SELETIVOS PARQUE COCAIA - RUA PEDRO SANTA LÚCIA, 468",Jardim Satélite,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 25,"SP/SÃO PAULO - JARDIM VILA MARIANA - LOJA PÃO DE AÇÚCAR - R. PROF. SERAFIM ORLANDI, 299,",Jardim Vila Mariana,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - JD. NOVE DE JULHO - COOPERATIVA COOPER LESTE - COOPERATIVA DE MATERIAIS RECICLÁVEIS DE SÃO MATEUS - ESTRADA FAZENDA DO CARMO , 450",Jardim Nove de Julho,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 26,"SP/SÃO PAULO - JD. PAULISTANO - LOJA PÃO DE AÇÚCAR - AL. GABRIEL MONTEIRO DA SILVA, 1351,",Jardim Paulistano,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 27,"SP/SÃO PAULO - JD.PAULISTA - LOJA PÃO DE AÇÚCAR - AV. BRIG. LUIS ANTONIO, 3126",Jardim Paulista,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - LIBERDADE - COOPERATIVA COOPER GLICÉRIO - RUA TEIXEIRA LEITE , 140",Liberdade,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - LIBERDADE - COOPERATIVA RECIFRAN - RUA JUNQUEIRA FREIRE, 176",Liberdade,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - LUZ - COOPERATIVA REVIRAVOLTA - RUA VINTE E CINCO DE JANEIRO, 274",Luz,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 28,"SP/SÃO PAULO - MOEMA - LOJA PÃO DE AÇÚCAR - AL. DOS MARACATINS, 1545/1555 - MOEMA",Moema,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 29,"SP/SÃO PAULO - MOEMA - LOJA PÃO DE AÇÚCAR - AV.IBIRAPUERA, 3068 - MOEMA",Moema,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 30,"SP/SÃO PAULO - MOEMA - LOJA PÃO DE AÇÚCAR - AV. LAVANDISCA, 249/263,",Moema,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 31,"SP/SÃO PAULO - MOEMA - LOJA PÃO DE AÇÚCAR - AV.IBIRAPUERA, 1770",Moema,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 32,"SP/SÃO PAULO - NOVA PETROPOLIS - LOJA PÃO DE AÇÚCAR - R.SANTA FILOMENA, 677",Nova Petrópolis,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 33,"SP/SÃO PAULO - PARAÍSO - LOJA PÃO DE AÇÚCAR - RUA ABILIO SOARES, 386,",Paraíso,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - PARQUE SÃO LOURENÇO - COOPERATIVA COOPERATIVA DE CATADORES DE MATERIAIS RECICLÁVEIS FILADÉLPHIA - RUA FORTE CANANÉIA, 110",Parque São Lourenço,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - PERDIZES - BOUTIQUE NESPRESSO BOURBON - RUA PALESTRA ITÁLIA, 500, SETOR SUC Q02Q01, PERDIZES, SÃO PAULO/SP - CEP: 05005-900",Perdizes,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 34,"SP/SÃO PAULO - PERDIZES - LOJA PÃO DE AÇÚCAR - R.CARDOSO DE ALMEIDA, 472",Perdizes,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - PINHEIROS - BOUTIQUE NESPRESSO ELDORADO - AVENIDA REBOUÇAS, 3970 – PISO TÉRREO, LOJA NQ011, PINHEIROS, SÃO PAULO/SP - CEP: 05401-450",Pinheiros,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - PINHEIROS - COOPERATIVA COOPAMARE - COOP. DOS CAT. AUTONOMOS DE PAPEL APARAS E MAT.REAPROVEITÁVEIS - RUA GALENO DE ALMEIDA, 659",Pinheiros,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 35,"SP/SÃO PAULO - PINHEIROS - LOJA PÃO DE AÇÚCAR - R.ALVES GUIMARÃES, 50 - PINHEIROS",Pinheiros,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 36,"SP/SÃO PAULO - PLANALTO PAULISTA - LOJA PÃO DE AÇÚCAR - ALAMEDA DOS GUATAS, 1261",Planalto Paulista,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 37,"SP/SÃO PAULO - PLANALTO PAULISTA - LOJA PÃO DE AÇÚCAR - AV JOSE MARIA WHITAKER, 600",Planalto Paulista,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 38,"SP/SÃO PAULO - POMPÉIA - LOJA PÃO DE AÇÚCAR - AV. PROF.ALFONSO BOVERO, 1425,",Pómpeia,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 39,"SP/SÃO PAULO - SANTANA - LOJA PÃO DE AÇÚCAR - R. VOLUNTÁRIOS DA PÁTRIA, 1723,",Santana,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 40,"SP/SÃO PAULO - SANTANA - LOJA PÃO DE AÇÚCAR - RUA DR. CÉSAR, 1234,",Santana,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 41,"SP/SÃO PAULO - SANTO AMARO - LOJA PÃO DE AÇÚCAR - AV. SANTO AMARO, 5460",Santo Amaro,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 42,"SP/SÃO PAULO - SAÚDE - LOJA PÃO DE AÇÚCAR - RUA CARNEIRO DA CUNHA, S/Nº,",Saúde,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - TATUAPÉ - COOPERATIVA COOPERATIVA DE PRODUÇÃO COLETA E TRIAGEM CENTRAL TIETÊ - AVENIDA SALIM FARAH MALUF , 179",Tatuapé,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 42,"SP/SÃO PAULO - TUCURUVI - LOJA PÃO DE AÇÚCAR - AV. NOVA CANTAREIRA, 240/248",Tucuruvi,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 43,"SP/SÃO PAULO - VILA ALBERTINA - LOJA PÃO DE AÇÚCAR - R. MARIA AMÁLIA LOPES AZEVEDO, 842,",Vila Albertina,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 44,"SP/SÃO PAULO - VILA ANDRADE - LOJA PÃO DE AÇÚCAR - RUA DR. JOSÉ RAMON URTIZA, 1000,",Vila Andrade,,Cápsulas de café,,,
+SP,São Paulo,São Paulo,"SP/SÃO PAULO - VILA BERTIOGA - COOPERATIVA RECICLA PLANET - RUA RIBEIRÃO BRANCO, 283A",Vila Bertioga,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 45,"SP/SÃO PAULO - VILA CLEMENTINO - LOJA PÃO DE AÇÚCAR - AVENIDA DOUTOR ALTINO ARANTES,268,",Vila Clementino,,Cápsulas de café,,,
+SP,São Paulo,Loja Pão de Açucar 46,"SP/SÃO PAULO - VILA GOMES CARDIM - LOJA PÃO DE AÇÚCAR - RUA SERRA DE JAPI, 647,",Vila Gomes Cardim,,Cápsulas de café,,,
+SP,São Paulo,BOUTIQUE NESPRESSO CENTER NORTE,"AVENIDA OTTO BAUMGART, 500, TÉRREO (SHOPPING CENTER NORTE), VILA GUILHERME",Vila Guilherme,,Cápsulas de café,,,Três Corações
+SP,São Paulo,COOPERATIVA COOPERATIVA UNIAO AMBIENTAL E ARTESANAL MOFARREJ,"AVENIDA DOUTOR GASTÃO VIDIGAL, 1076 (DEBAIXO DO VIADUTO)",Vila Leopoldina,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA PÃO DE AÇÚCAR,"AV. VEREADOR JOÃO DE LUCA, 1005",Jardim Prudência,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA PÃO DE AÇÚCAR,"RUA PEREIRA DA NOBREGA, S/N",Campo Belo,,Cápsulas de café,,,Três Corações
+SP,São Paulo,BOUTIQUE NESPRESSO JK IGUATEMI,"AVENIDA PRESIDENTE JUSCELINO KUBITSCHEK, 2041, LOJA 250, PISO XINGU, VILA NOVA CONCEIÇÃO",Vila Nova Conceição,,Cápsulas de café,,,Três Corações
+SP,São Paulo,COOPERATIVA COOPERATIVA DE TRABALHADORES DE MATERIAIS RECICLÁVEIS DA FAVELA DE VILA PRUDENTE,"RUA CAPITÃO PACHECO E CHAVES , 108",Ipiranga,,Cápsulas de café,,,Três Corações
+SP,São Paulo,BOUTIQUE NESPRESSO ANÁLIA FRANCO,"AVENIDA REGENTE FEIJÓ, 1739, PISO TULIPA; LUC 75 A 77, VILA REGENTE FEIJÓ",Vila Regente Feijó,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO ADOLFO PINHEIRO,"SP/SÃO PAULO - VILA SUZANA - LOJA PÃO DE AÇÚCAR - R. MARECHAL HASTINFILO DE MOURA, 30,",Santo Amaro,,Cápsulas de café,,,
+SP,São Paulo,ESTACAO BORBA GATO,"AVENIDA ADOLFO PINHEIRO, 301",Santo Amaro,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO BUTANTA,"AVENIDA ADOLFO PINHEIROS, 2464",Butantã,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO CAMPO BELO,"AVENIDA VITAL BRASIL, 333",Santo Amaro,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO EUCALIPTOS,AVENIDA SANTO AMARO S/N,Moema,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO FARIA LIMA,"AVENIDA IBIRAPUERA, 3144",Itaim Bibi,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO GIOVANI GRONCHI,"AVENIDA BRIGADEIRO FARIA LIMA, 949",Santo Amaro,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO HOSPITAL SÃO PAULO,"AVENIDA JOÃO DIAS, 5747/ 5745",Vila Clementino,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO LARGO TREZE,"RUA PEDRO DE TOLEDO, 910",Vila Mascote,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO LUZ,AVENIDA PADRE JOSÉ MARIA,Santa Ifigênia,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO MOEMA,"AVENIDA CASPER LIBERO, 598",Moema,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO PAULISTA,AVENIDA IBIRAPUERA,Cerqueira César,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO PINHEIROS,RUA DA CONSOLAÇÃO 2367,Vila Mariana,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO REPUBLICA,"RUA CAPRI, 145",Santa Cecília,,Cápsulas de café,,,Três Corações
+SP,São Paulo,ESTACAO SANTA CRUZ,"RUA DO AROUCHE, 24",Vila Clementino,,Cápsulas de café,,,Três Corações
+SP,São Paulo,PLAZA SUL SHOPPING,"RUA PEDRO DE TOLEDO, 60",Vila Cruzeiro,,Cápsulas de café,,,Três Corações
+SP,São Paulo,POSTO ALICEMAR,"PRAÇA LEONOR KAUPA, 100",São Miguel Paulista,,Cápsulas de café,,,Três Corações
+SP,São Paulo,POSTO BARONESA,AVENIDA MARECHAL TITO 6034,Higienópolis,,Cápsulas de café,,,Três Corações
+SP,São Paulo,POSTO DUQUE DUMONT VILLARES,"AVENIDA ANGÉLICA, 806",Santana,,Cápsulas de café,,,Três Corações
+SP,São Paulo,SHOPPING SANTANA PARQUE,"AVENIDA LUIZ DUMONT VILLARES, 1422",Lauzane Paulista,,Cápsulas de café,,,Três Corações
+SP,São Paulo,SHOPPING CENTER TABOAO,"R. CONSELHEIRO MOREIRA DE BARROS, 2780",Capão Redondo,,Cápsulas de café,,,Três Corações
+SP,São Paulo,SHOPPING METRO SANTA CRUZ,"ROD. RÉGIS BITTENCOURT, 2643",Vila Mariana,,Cápsulas de café,,,Três Corações
+SP,São Paulo,SHOPPING METROPOLE,"R. DOMINGOS DE MORAIS, 2564",Centro,,Cápsulas de café,,,Três Corações
+SP,São Paulo,SHOPPING TAMBORE,"PRAÇA SAMUEL SABATINI, 200",Tamboré,,Cápsulas de café,,,Três Corações
+SP,São Paulo,VILA PLANA,"AV. PIRACEMA , 669. TAMBORÉ",Jardim São Luís,,Cápsulas de café,,,Três Corações
+SP,São Paulo,COOPERATIVA COOPERATIVA DE TRABALHO EM RECICLAGEM UNIDOS VENCEREMOS (UNIVENCE),"AVENIDA DAS BELEZAS, 880",Vila Prudente,,Cápsulas de café,,,Três Corações
+SP,Suzano,COOPERATIVA COOPERZAGATI,"RUA BIOTONICO, 1900",Vila Prudente,,Cápsulas de café,,,Três Corações
+SP,Taboão da Serra,LOJA MAMBO,"RUA PORFÍRIO HERDEIRO, 440",Jardim São Luís,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"AV. VEREADOR JOSÉ DINIZ, 2339",Campo Belo,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"RUA CANÁRIO, 408, MOEMA",Moema,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"AV. GIOVANNI GRONCHI, 2799",Morumbi,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"RUA TURIASSÚ, 1205",Perdizes,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"AV. ANGÉLICA, 526",Higienópolis,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"RUA SERRA DE BOTUCATU, 1703",Tatuapé,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"RUA ALIANÇA LIBERAL, 322",Vila Nova Conceição,,Cápsulas de café,,,Três Corações
+SP,São Paulo,LOJA MAMBO,"RUA DEPUTADO LACERDA FRANCO, 553",Pinheiros,,Cápsulas de café,,,Três Corações
+SP,São Paulo,,"RUA AURÉLIA, 1973",Vila Romana,,Cápsulas de café,,,Três Corações
+SP,São Paulo,,"Rua James Holland, 668",Guaianases,01138-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Raimundo Pereira de Magalhães - de 11000, 11001",Vila Paranagua,05145-200,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida das Nações Unidas - de 12997 a 17279 - lado ímpar, 15187",Freguesia do Ó,04795-100,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Senador Teotônio Vilela, 1324",Guaianases,04801-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Cupecê, 3036",Jardim Três Marias,04365-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida São Miguel, 4525",Vila Nina,03871-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Sapopemba, 3681",Jardim Aimore,03366-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Estrada de Itapecerica, 3880",Jardim Sonia Regina,05835-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Frei Aníbal de Gênova, 1413",Jardim das Oliveiras,05756-050,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Paranaguá, 1477",Jardim São Luís,03699-010,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Santa Marina, 2687",Limão,05036-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Professor João de Lima Paiva, 65",Paraisópolis,04190-030,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Ragueb Chohfi, 3248",Jardim São Gonçalo,08430-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Parapuã, 1407",Vila Perus,02831-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Marechal Tito, 4399",Vila Pirituba,08060-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Luís Baldinato, s/n",Centro Histórico de São Paulo,04894-080,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Doutor Almiro Leal da Costa, 370",Rio Pequeno,05784-060,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Maria Coelho Aguiar, 960",Santana,05804-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Professor Celestino Bourroul, 847",Cidade São Mateus,02710-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Ernest Renan, 1032",Vila Doutor Eiras,02325-020,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Estrada da Colônia, 245",Vila da Saúde,04786-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Doutor Sylvio de Campos, 25",Parada Inglesa,05577-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Benedito Andrade, 176",Jardim Vergueiro (Sacoma),05601-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Praça Ramos De Azevedo, 131",Vila Prudente,01037-010,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida do Rio Pequeno, 1158",Vila Ré,05379-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Voluntários da Pátria, 1943",Vila Medeiros,02011-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Mateo Bei, 3083",Vila Pirajussara,03252-200,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Marechal Tito, 844",Vila Pirajussara,08060-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Jabaquara, 452",Ipiranga,04310-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Domingos Calheiros, 38",Itaim Paulista,02325-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Padre Arlindo Vieira, 1273",Lapa,04160-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Praça Padre Damião, 93",Penha de França,05074-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Itinguçú, 1879",São Miguel Paulista,03658-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Goianésia, 11",Vila Formosa,03440-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Estrada do Campo Limpo, 3935",Vila Maria,05777-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Estrada do Campo Limpo, 4162",Vila Matilde,05777-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Silva Bueno, 2153",Vila dos Andrades,04208-050,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Marechal Tito, 3154",Itaim Bibi,08090-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Doze de Outubro, 215",Mooca,05057-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Praça Oito de Setembro, 58",Carandiru,04301-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Arlíndo Colaço, 404",Luz,05372-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Praça Doutor Sampaio Vidal, 49",Bela Vista,03127-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Guilherme Cotching, 1442",Vila Clementino,02113-010,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Waldemar Carlos Pereira, 1151",Jardim Umuarama,04250-040,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Itaberaba - de 1931, 5080",Jardim Maria Luiza,02734-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua João Cachoeira - de 851 a 1139 - lado ímpar, 899",Vila Regente Feijó,04535-004,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Javari, 403",Vila Guilherme,03308-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Zaki Narchi - de 1001, 1650",Vila Santa Eulália,02029-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Tiradentes, 615",Parque Residencial da Lapa,01102-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Doutor Plínio Barreto, 285",Jardim das Acacias,01313-020,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Pedro de Toledo - de 322 a 602 - lado par, 572",Butantã,04039-002,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Interlagos, 2255",Aclimação,04661-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rodovia Raposo Tavares, s / n",Higienópolis,05577-200,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Regente Feijó, 1425",Vila Andrade,03342-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Otto Baumgart, 500",Jardim Aeroporto,02049-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Doutor Ricardo Jafet, 1501",Ipiranga,04123-011,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Presidente Castelo Branco, 6061",Itaquera,01144-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Roque Petroni Júnior, 1089",Pinheiros,04707-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Carlos Lisdegno Carlucci, 519",Vila Mariana,04296-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Muniz de Sousa - de 695, 1119",Vila Guarani,01534-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Angélica - até 955 - lado ímpar, 1500",Tatuapé,01227-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Dona Helena Pereira de Moraes, 200",Cerqueira César,05652-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Alsácia, 507",Vila Maria,04821-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Nazaré - de 1353 ao fim - lado ímpar, s/n",Água Branca,04262-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Afonso de Sampaio e Sousa - até 698, 951",Paraíso,03341-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Henrique Chamma, 420",Santo Amaro,05468-020,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Pedro Álvares Cabral, 0",Itaquera,04094-050,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Volkswagen, s/n",Parque Colonial,04895-010,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Tuiuti - de 32, 515",Pinheiros,03081-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua Peixoto Gomide - até 1249 - lado ímpar, 949",Itaquera,01409-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Nadir Dias de Figueiredo, s/n",Parque São Lourenço,05126-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Embaixador Macedo Soares, 9175",,05132-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Rua do Paraíso, 387",,04103-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Engenheiro Eusébio Stevaux, 823",,04696-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Fernando do Espírito Santo Alves de Mattos, 1000",,04729-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Manuel Alves Soares, 1100",,04821-010,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Rebouças - de 2986 ao fim - lado par, 3970",,05402-600,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida José Pinheiro Borges, s/n",,03568-000,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"Avenida Ragueb Chohfi, 1956",,08430-001,Lixo eletrônico,07:00 -18:00,07:00 -14:00,Green Eletron
+SP,São Paulo,,"SAO PAULO, AVENIDA ITABERABA 4615 LOJA BN",,,Instrumentos de escrita,,,
+SP,São Paulo,,"SÃO PAULO, RUA MONT BANC, 98 LAUZANE PAULISTA",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Avenida Francisco Matarazzo, 1752 Sala 2215",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua Ribeiro de Barros, 128 Pompéia",,,Instrumentos de escrita,,,
+SP,Caieiras,,"Caieiras, Waldemar Gomes Marino Nº 305",,,Instrumentos de escrita,,,
+SP,Franco da Rocha,,"Franco da Rocha, Praça Ministro Nelson Hungria, 01 Centro",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua Natingui 862 conj 525",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua Visconde de Parnaíba, 3232 Brás",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua das Camélias, 571 Mirandópolis",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, RUA LINO COUTINHO 1940",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua Pedreira de Magalhães, 71 Artur Alvim",,,Instrumentos de escrita,,,
+SP,São Paulo,,"São Paulo, Rua do contorno s/nº Itaquera",,,Instrumentos de escrita,,,
+SP,Santo André,,"Santo André, Av da Saudade, 370",,,Instrumentos de escrita,,,
+SP,São Bernardo do Campo,,"São Bernardo Do Campo, Rua Augusto Boralli, 160 Assunção",,,Instrumentos de escrita,,,
+SP,Judiaí,,"jundia, r flavio santoro 41",,,Instrumentos de escrita,,,
+SP,Nazaré Paulista,,"Nazaré Paulista, Rua Clementino de Almeida Passos Nº 35",,,Instrumentos de escrita,,,
+SP,Cabreúva,,"Cabreúva, Av. São Paulo, 554 Jacaré",,,Instrumentos de escrita,,,
+SP,Mogi das Cruzes,,"Mogi das Cruzes, R. Antenor Leite da Cunha, 55 Nova Mogilar",,,Instrumentos de escrita,,,
+SP,Valinhos,,"Valinhos, rua Barao do Rio Branco 408 Vila Independência",,,Instrumentos de escrita,,,
+SP,Santos,,"Santos, Av. Dr. Bernardino de Campos, 442 Campo Grande",,,Instrumentos de escrita,,,
+SP,Santos,,"Santos, Rua Alberto baccarat s/n Boqueirão",,,Instrumentos de escrita,,,
+SP,Santos,,"Santos, Rua Dr. Manoel Tourinho 397 Macuco",,,Instrumentos de escrita,,,
+SP,Praia Grande,,"Praia Grande, Rua Gilberto Fouad Beck, 150 Vila Mirim",,,Instrumentos de escrita,,,
+SP,Bertioga,,"Bertioga, Rua doutor Rodrigues Alves Casa",,,Instrumentos de escrita,,,
+SP,Santa Branca,,"Santa Branca, Benedito Alves Pereira 64 casa",,,Instrumentos de escrita,,,
+SP,Hortolândia,,"Hortolândia, Rua Ímola, 75 - Jd. Res. Firenze Fórum da Comarca de Hortolândia",,,Instrumentos de escrita,,,
+SP,Hortolândia,,"Hortolândia, Av.Thereza Ana Cecon Breda, 1896 Vila São Pedro",Jardim Arpoador,,Instrumentos de escrita,,,
+SP,Tietê,,"Tietê, Avenida Onze de Agosto, 130",Diadema,,Instrumentos de escrita,,,
+SP,Limeira,,"LIMEIRA, Rua Alfredo Mesanelli 110",Diadema,,Instrumentos de escrita,,,
+SP,Limeira,,"LIMEIRA, RUA ANTONIO JORGE LOUREIRO, 303 JD OURO VERDE",Macedo,,Instrumentos de escrita,,,
+SP,Juquiá,,"Juquiá, Rua Major Martins Coelho, 439 Centro",Gopoúva,,Instrumentos de escrita,,,
+SP,Itapetininga,,"Itapetininga, R. Dom Joaquim, 495 Centro",Vila Zeferina,,Instrumentos de escrita,,,
+SP,Registro,,"Registro, AVENIDA DEPUTADO ULISSES GUIMARAES Nosso Teto",Jardim Gagliardi,,Instrumentos de escrita,,,
+SP,Barra Velha,,"Barra Velha, Rua Marino Atanásio Pinheiro, 51 Jardim Icaraí",Centro,,Instrumentos de escrita,,,
+SP,São Paulo,Exército da Salvação,"Rodovia Raposo Tavares KM 14, 153 ao km 18 201 - lado ímpar",Centro Cívico,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Diadema,Exército da Salvação,Rua Manoel da Nóbrega (Prq S Setembro) 712,Vila Jundiaí,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Diadema,Exército da Salvação,"Av. José Bonifácio, 543 543",Vila Yara,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Guarulhos,Exército da Salvação,Avenida Paulo Faccini 214,Parque Suzano,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Guarulhos,Exército da Salvação,Rua Guarulhos 2753,Nova Petrópolis,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Itaquaquecetuba,Exército da Salvação,Avenida Ítalo Adami 1809,Alves Dias,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Bernardo do Campo,Exército da Salvação,Rua Passagem da Servidão Toyota 1115,Vila Marlene,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Mauá,Exército da Salvação,"Rua Luís Mariani (Vl F N Morelli), 136",Centro,09390-050,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Mogi das Cruzes,Exército da Salvação,Avenida Vereador Narciso Yague Guimarães 1000,Santo Amaro,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Mogi das Cruzes,Exército da Salvação,Rua José Galdino de Castro 252,Cambuci,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Osasco,Exército da Salvação,Avenida dos Autonomistas 1542,Bosque da Saúde,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,Suzano,Exército da Salvação,Avenida Armando Salles de Oliveira 1200,Jardim Aricanduva,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Bernardo do Campo,Exército da Salvação,Avenida Pery Ronchetti 1800,Vila Gertrudes,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Bernardo do Campo,Exército da Salvação,"Avenida Humberto Alencar Castelo Branco, 3100",Rocha,24420-006,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Bernardo do Campo,Exército da Salvação,Avenida Kennedy 700,Jardim Cambara,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Caetano do Sul,Exército da Salvação,Rua Aquidaban S/N,Jardim Umuarama,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Santo Amaro 4815,Vila Campanela,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Praça Alberto Lion 100,Tatuapé,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Ribeiro Lacerda 940,Cidade Mãe do Céu,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Rio das Pedras 555,Jardim Santa Cruz,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida das Nações Unidas 15187,Jardim Guairaca,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Juá 264,Jardim Guairaca,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,"Rodovia Raposo Tavares, 7201 KM 17",Butantã,05577-000,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Interlagos 2501,Vila Norma,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida José Pinheiro Borges s/n,Itaim Paulista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Gonçalves Crespo 78,Jardim Helena,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Domingos Agostim 91,Tatuapé,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua São Canuto 510,Cidade Antônio Estevão de Carvalho,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida do Oratório 4500,Vila Beatriz,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida do Oratório 4500,Vila Zilda,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Waldemar Tietz 538,Tatuapé,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida São Miguel 8400,Canindé,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Marechal Tito 3333,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Estrada Itaquera 2000,Vila Regente Feijó,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Catiguá 255,Casa Verde,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Boipeva 36,Vila Vermelha,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Doutor Orêncio Vidigal,Brás,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Doutor Ângelo Vita 386,Jardim Leonor,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Melo Freire s/n,Vila Mariana,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Cruzeiro do Sul s/n,Vila Mariana,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Paulista 2064,Vila Socorro,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Regente Feijó 1759,Jardim Jaú,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Marambaia 200,Vila Rubi,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Via Anchieta 3398 3398,Vila Carlos de Campos,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Monsenhor Andrade 811,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Radiantes 13,Penha de França,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Doutor Dante Pazzanese 120,Parque Brasil,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Doutor Dante Pazzanese 421,Jardim Clementino,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Guarapiranga 752,Vila Mascote,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Governador Carvalho Pinto 899,Jardim Vergueiro (Sacoma),,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Domingos Tarroso 38,Barra Funda,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Doutor Orêncio Vidigal 591,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Doutor Penaforte Mendes 235,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Rua Santo Antero 417,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Avenida Dona Belmira Marin 900,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,"Estrada Kizaemon Takeuti 1300, Jardim Clementino Taboão da Serra - SP",Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Exército da Salvação,Av Santa Catarina 1781,Bela Vista,,"Roupas, brinquedos, calçados e outros pequenos objetos.",07:00 - 2200,09:-00 - 17:00,Exército da Salvação
+SP,São Paulo,Boticário,"Av. Padre Arlindo Vieira, 1552",Bom Retiro,04166-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Mário de Andrade, 664",Brás,01156-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Paulista, 2073",Brás,01311-940,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Paulista, 1230",Cambuci,01310-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Paulista, 854",Cambuci,01310-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R - Av. Brigadeiro Luís Antônio, 282",Campo Belo,01318-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Paulista, 2064",Casa Verde Alta,01310-928,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Maestro Cardim, 1947",Cidade Monções,01327-900,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Silva Pinto, 315",Centro,01126-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Celso Garcia, 211",Centro,03015-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Oriente, 474",Centro,03016-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Largo do Cambuci, 77",Centro,01523-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Lins de Vasconcelos, 1175",Centro Histórico,01537-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Vieira de Morais, 1026",Centro Histórico,04617-002,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Zilda, 785",Cerqueira César,02545-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. das Nações Unidas, 12901",Cidade Antônio Estevão de Carvalho,04578-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. Pedro Pereira, 258",Consolação,60035-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. Liberato Barroso, 352",Damas,60030-160,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. Guilherme Rocha, 266",Fátima,60030-140,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. José Avelino, 145",Higienópolis,60060-360,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Cel. Xavier de Toledo, 23",Jardim América,01048-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. São Bento, 207",Jardim Oriental,01010-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Augusta, 2887",Jardim Paulista,01413-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Boipeva, S/N",Jardim Pirituba,08220-030,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Frei Caneca, 569",Lapa,01307-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. José Bastos, 1012",Liberdade,60431-084,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Aguanambi, 1393",Cidade dos Funcionários,60055-401,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Angélica, 2277",Messejana,01227-200,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Professor Gomes de Matos, 1244",Mirandópolis,60420-432,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Eng. Armando de Arruda Pereira, 2022",Mirandópolis,04308-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Pamplona, 1704",Papicu,01405-907,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Raimundo Pereira de Magalhães, 11001",Parque São Lucas,02984-035,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Catão, 72",Parque São Rafael,05049-901,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Praça da Liberdade, 183",Penha de Françá,01503-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Oliveira Paiva, 1350",Pinheiros,60822-130,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. Joaquim Bezerra, 105",Pinheiros,60842-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Jabaquara, 2647",Pinheiros,04045-004,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Jabaquara, 961",Pompeia,04045-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Eng. Santana Jr., 999",República,60175-657,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. São Lucas, 161",República,03239-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Baronesa de Muritiba, 432",Santa Cecília,08311-080,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Penha de França, 401",Santana,03606-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Cunha Gago, 391",Santo Amaro,05421-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Teodoro Sampaio, 2001",São João Clímaco,05405-200,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Rebouças, 3970",Sé,05402-600,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Prof. Alfonso Bovero, 1290",Meireles,05019-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Br. de Itapetininga, 173",Benfica,01042-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. do Arouche, 170",Aldeota,01219-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Alameda Barros, 104",Edson Queiroz,01232-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Voluntários da Pátria, 2182",Centro,02010-820,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Amador Bueno, 229",Parangaba,04752-005,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Rua Tamuatá, 354",Aldeota,04255-140,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Direita, 70",Socorro,01003-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Dom Luís, 500",Tatuapé,60160-230,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Carapinima, 2200",Lagoa Sapiranga (Coité),60015-290,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Santos Dumont, 3131",Vila Buarque,60150-162,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Washington Soares, 85",Vila Clementino,60811-900,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. 24 de Maio, 444",Vila da Saúde,60020-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"R. Germano Franck, 300",Vila Guarani,60740-020,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Dom Luís, 1200",Vila Mariana,60160-230,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. de Pinedo, 138",Vila Mariana,04764-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Tuiuti, 2209",Vila Mariana,03307-005,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+CE,Fortaleza,Boticário,"Av. Washington Soares, 4335",Vila Nocuné,60833-055,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Maria Antônia, 67",Vila Norma,01222-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Rua Pedro de Toledo, 496",Vila Nova Conceição,04039-001,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. do Cursino, 1393",Vila Olímpia,04133-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Eng. Armando de Arruda Pereira, 1147",Vila Olímpia,04309-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Domingos de Morais, 2564",Vila Santa Eulália,04036-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Domingos de Morais, 848",Vila Sonia,04010-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Domingos de Morais, 2824",Vila Suzana,04036-100,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Prof. Edgar Santos, 850",Vila Nhocuné,03560-080,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. São Miguel, 8400 - Stand 23",São Miguel Paulista,08070-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. João Cachoeira, 506",Itaim Bibi,04535-002,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Olimpíadas, 360",Vila Olímpia,04551-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Olimpíadas, 205",Vila Olímpia,04551-000,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Dr. Ricardo Jafet, 1501",Ipiranga,04260-010,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"Av. Prof. Francisco Morato, 3680",Vila Sônia,05512-300,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+SP,São Paulo,Boticário,"R. Prof. José Horácio Meirelles Teixeira, 1040",Butantã,05584-210,"Embalagens de cosméticos, seja de plástico, vidro ou papel",10 - 22,10 - 22,Boticário
+GO,Aparecida de Goiânia,Heineken,"Avenida das Nações, S/N, Vera Cruz, Aparecida de Goiânia",Vera Cruz,74976-190,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Aparecida de Goiânia,Heineken,"Avenida Epiacauba, 0, Jardim Helvécia, Aparecida de Goiânia",Jardim Helvécia,74933-540,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Deputado Sílvio Teixeira, 831, Jardins, Aracaju",Jardins,49025-100,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Doutor José Thomas D'Ávila Nabuco, SN, Farolândia, Aracaju",Farolândia,49030-270,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Francisco Porto, 250, Treze de Julho, Aracaju",Treze de Julho,49020-120,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Chanceler Osvaldo Aranha, 1240, José Conrado de Araújo, Aracaju",José Conrado de Araújo,49085-100,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Delmiro Gouveia, 400, Coroa do Meio, Aracaju",Coroa do Meio,49035-500,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Av Melicio Machado, SN, Atalaia, Aracaju",Atalaia,49037-440,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Av. Coletora A, S/N, Nossa Senhora do Socorro, Aracaju",Nossa Senhora do Socorro,49160-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Ministro Nelson Hungria, 155, Luzia, Aracaju",Luzia,49045-510,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Coelho e Campos, 215, Centro, Aracaju",Centro,49010-720,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Av. Heráclito Mourão de Miranda, 1700, Castelo, Belo Horizonte",Castelo,31330-270,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Artur de Sá, 305, União, Belo Horizonte",União,31170-710,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Av. Afonso Pena, 3328, Cruzeiro, Belo Horizonte",Cruzeiro,30001-970,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua André Cavalcanti, 223, Gutierrez, Belo Horizonte",Gutierrez,30430-110,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Fleming, 650, Ouro Preto, Belo Horizonte",Ouro Preto,31310-490,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida General Olímpio Mourão Filho, 717, Itapoã, Belo Horizonte",Itapoã,31710-690,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rodovia BR-356, 2780, Santa Lúcia, Belo Horizonte",Santa Lúcia,30320-055,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Professor Mário Werneck, 2461, Buritis, Belo Horizonte",Buritis,30575-180,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Alberto Cintra, 74, União, Belo Horizonte",União,31160-370,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Pium-I, 630, Cruzeiro, Belo Horizonte",Cruzeiro,30310-080,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Francisco Sá, 66, Gutierrez, Belo Horizonte",Gutierrez,30441-021,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Pium-I, 672, Cruzeiro, Belo Horizonte",Cruzeiro,30310-080,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rodovia BR-356, 0, Olhos D'Água, Belo Horizonte",Olhos D'Água,30390-003,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Fleming, 650, Ouro Preto, Belo Horizonte",Ouro Preto,31310-490,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida do Contorno, 5727, Funcionários, Belo Horizonte",Funcionários,30110-035,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Fleming, 845, Ouro Preto, Belo Horizonte Minas Gerais, 31310-490","QS 3 Rua 450, S/N
+Areal (Águas Claras), Brasília Distrito Federal, 71953-180",,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Fleming, 480, Ouro Preto, Belo Horizonte",Ouro Preto,31310-490,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Cândido Naves, 160, Ouro Preto, Belo Horizonte",Ouro Preto,31310-460,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Dom Pedro II, 3600, Monsenhor Messias, Belo Horizonte",Monsenhor Messias,30720-460,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Altamiro Avelino Soares, 426, Castelo, Belo Horizonte",Castelo,31330-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Presidente Antônio Carlos, 8100, São Luiz, Belo Horizonte",São Luiz,31270-672,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Rua Felipe dos Santos, 68, Lourdes, Belo Horizonte",Lourdes,30180-160,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Heineken,"Avenida Vereador Cícero Ildefonso, 333, João Pinheiro, Belo Horizonte",João Pinheiro,30530-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"SMDB, S/N, Setor de Mansões Dom Bosco (Lago Sul), Brasília",Setor de Mansões Dom Bosco (Lago Sul),71680-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"Avenida das Castanheiras, Lote 200 E 280 Loja 01, Norte (Águas Claras), Brasília",Norte (Águas Claras),71900-100,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"SIA Quadra 5-C, 55 (Octogonal), Zona Industrial (Guará), Brasília",Zona Industrial (Guará),71200-055,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"St. Hab. Vicente Pires Chácara, 129, Taguatinga Setor Habitacional Vicente Pires, Brasília",Taguatinga Setor Habitacional Vicente Pires,72001-800,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"AEI 10, S/N, Asa Sul, Brasília",Asa Sul,70297-400,Garrafas de vidro,10 - 22,10 - 22,Heineken
+DF,Brasília,Heineken,"Avenida Santos Dumont, 2140, Coqueiros de Arembepe (Abrantes), Camaçari",Coqueiros de Arembepe (Abrantes),42823-656,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Camaçari,Heineken,"Avenida Santos Dumont, 2140
+Coqueiros de Arembepe (Abrantes), Camaçari Bahia, 42823-656",Camaçari,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,Campinas,Heineken,"Avenida John Boyd Dunlop, 440",Jardim Aurelia,13033-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Avenida República Argentina, 449
+Água Verde, Curitiba Paraná, 80240-210",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rua Coronel Dulcídio, 880
+Batel, Curitiba Paraná, 80420-170",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rodovia BR-116, 13.807
+Xaxim, Curitiba Paraná, 81690-200",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rua dos Bem-te-vis, 4556
+Novo Mundo, Curitiba Paraná, 81020-430",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Avenida Comendador Franco, 4160
+Jardim das Américas, Curitiba Paraná, 81530-440",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rua Martim Afonso, 2188
+Bigorrilho, Curitiba Paraná, 80730-030",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rua Alberto Folloni, 420
+Juvevê, Curitiba Paraná, 80530-300",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Avenida Marechal Floriano Peixoto, 6400
+Hauer, Curitiba Paraná, 81630-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Rua Eduardo Carlos Pereira, 3605
+Novo Mundo, Curitiba Paraná, 81020-235",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Curitiba,,"Avenida Victor Ferreira do Amaral, 1088
+Tarumã, Curitiba Paraná, 82530-230",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,Florianópolis,,"Rua João Câncio Jacques, 49
+Costeira do Pirajubaé, Florianópolis Santa Catarina, 88047-010",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,Florianópolis,,"Rua da Timbauba, S/N
+Monte Verde, Florianópolis Santa Catarina, 88032-310",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,Florianópolis,,"Rodovia Francisco Thomaz dos Santos, 1249
+Morro das Pedras, Florianópolis Santa Catarina, 88066-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Goiás,,"Avenida Mangalô, S/N q 14,l 134,135 e 143
+Setor Morada do Sol, Goiânia Goiás, 74475-115",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Goiás,,"Avenida Anhangüera, 5588
+Setor Central, Goiânia Goiás, 74453-495",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Goiás,,"Rua T 55, 611, Qd 104, Lt 01 E
+Setor Bueno, Goiânia Goiás, 74215-170",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Goiás,,"Av d Contorno, 2.914
+Vila Legionárias, Goiânia Goiás, 74850-400",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+GO,Goiás,,"Avenida César Lattes, S/N
+Jardim Vila Boa, Goiânia Goiás, 74360-280",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Rua José Lourenço Kelmer, 1200
+São Pedro, Juiz de Fora Minas Gerais, 36036-330",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Ladeira Alexandre Leonel, SN
+São Mateus, Juiz de Fora Minas Gerais, 36033-240",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Avenida Rui Barbosa, 591
+Santa Terezinha, Juiz de Fora Minas Gerais, 36045-410",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Rua Marechal Deodoro, 214
+Centro, Juiz de Fora Minas Gerais, 36013-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Avenida Barão do Rio Branco, 1973
+Centro, Juiz de Fora Minas Gerais, 36013-020",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Rua Barão de Cataguases, 195
+Santa Helena, Juiz de Fora Minas Gerais, 36015-370",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Juiz de Fora,,"Rua Roberto de Barros, 241
+Centro, Juiz de Fora Minas Gerais, 36013-210",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Avenida Robert Koch, 20
+Operária, Londrina Paraná, 86038-350",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Avenida Duque de Caxias, 1200
+Igapó, Londrina Paraná, 86015-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Avenida Juscelino Kubitschek, 2606
+Vila Ipiranga, Londrina Paraná, 86020-005",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Avenida Madre Leônia Milito, 1175
+Bela Suiça, Londrina Paraná, 86050-270",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Rua Quintino Bocaiúva, 1045
+Centro, Londrina Paraná, 86020-150",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Londrina,,"Avenida Saul Elkind, 2177
+Conjunto Vivi Xavier, Londrina Paraná, 86082-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Tamandaré, 903
+Zona 01, Maringá Paraná, 87013-210",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Morangueira, 1505
+Vila Morangueira , Maringá Paraná, 87033-070",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Cerro Azul, 971
+Zona 02, Maringá Paraná, 87010-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Brasil, 4734
+Zona 05, Maringá Paraná, 87015-280",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Guaiapó, 1881
+Bom Jardim, Maringá Paraná, 87047-731",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Brasil, 2829
+Zona 01, Maringá Paraná, 87013-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Guaiapó, 1881
+Jardim Colina Verde, Maringá Paraná, 87043-702",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PR,Maringá,,"Avenida Arquiteto Nildo Ribeiro da Rocha, 343
+Jardim Ipanema, Maringá Paraná, 87053-330",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Nova Lima,,"Rodovia Januário Carneiro, 8625
+Vale do Sereno, Nova Lima Minas Gerais, 34012-970",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,Palhoça,,"Avenida Atílio Pedro Pagani, 1300
+Pagani, Palhoça Santa Catarina, 88132-149",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PE,Recife,,"Avenida Engenheiro Domingos Ferreira, 1950
+Boa Viagem, Recife Pernambuco, 51111-020",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PE,Recife,,"Rua Antônio Vitrúvio, 113
+Poço, Recife Pernambuco, 52061-210",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PE,Recife,,"Rua Setúbal, 1226
+Boa Viagem, Recife Pernambuco, 51130-010",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PE,Recife,,"Avenida Engenheiro Domingos Ferreira, 1950
+Boa Viagem, Recife Pernambuco, 51111-020",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+PE,Recife,,"Avenida Dezessete de Agosto, 248
+Parnamirim, Recife Pernambuco, 52060-590",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua General Polidoro, 260
+Botafogo, Rio de Janeiro Rio de Janeiro, 22280-003",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Sargento Geraldo Santana, 52
+Olaria, Rio de Janeiro Rio de Janeiro, 21071-280",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida das Américas, 13.850
+Barra da Tijuca, Rio de Janeiro Rio de Janeiro, 22790-702",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Dias da Cruz, 579
+Méier, Rio de Janeiro Rio de Janeiro, 20720-011",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Praça Jauru, 32
+Taquara, Rio de Janeiro Rio de Janeiro, 22725-520",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Estrada de Jacarepaguá, 7.153
+Anil, Rio de Janeiro Rio de Janeiro, 22753-033",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Cândido Benício, 20
+Campinho, Rio de Janeiro Rio de Janeiro, 21320-060",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua do Lavradio, 20
+Centro, Rio de Janeiro Rio de Janeiro, 20230-070",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Mem de Sá, 81
+Centro, Rio de Janeiro Rio de Janeiro, 20230-150",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Capitão Salomão, 57
+Humaitá, Rio de Janeiro Rio de Janeiro, 22271-040",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Visconde de Pirajá, 181
+Ipanema, Rio de Janeiro Rio de Janeiro, 22410-001",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua do Lavradio, 18
+Centro, Rio de Janeiro Rio de Janeiro, 20230-070",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Borges de Medeiros, 1518
+Lagoa, Rio de Janeiro Rio de Janeiro, 22470-003",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Mem de Sá, 81
+Centro, Rio de Janeiro Rio de Janeiro, 20230-150",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Olegário Maciel, 539
+Barra da Tijuca, Rio de Janeiro Rio de Janeiro, 22621-200",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua dos Oitis, 6
+Gávea, Rio de Janeiro Rio de Janeiro, 22451-050",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Jardim Botânico, 1003
+Jardim Botânico, Rio de Janeiro Rio de Janeiro, 22470-051",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Álvaro Ramos, 154
+Botafogo, Rio de Janeiro Rio de Janeiro, 22280-110",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Jardim Botânico, 983
+Jardim Botânico, Rio de Janeiro Rio de Janeiro, 22470-051",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Mem de Sá, 104
+Centro, Rio de Janeiro Rio de Janeiro, 20230-152",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Maracanã, 782
+Tijuca, Rio de Janeiro Rio de Janeiro, 20511-001",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Marechal Henrique Lott, 120
+Barra da Tijuca, Rio de Janeiro Rio de Janeiro, 22631-370",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Praça Santos Dumont, 106
+Gávea, Rio de Janeiro Rio de Janeiro, 22470-060",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Jangadeiros, 42
+Ipanema, Rio de Janeiro Rio de Janeiro, 22420-010",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Mem de Sá, 69
+Centro, Rio de Janeiro Rio de Janeiro, 20230-150",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Vinícius de Moraes, 49
+Ipanema, Rio de Janeiro Rio de Janeiro, 22411-010",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Teixeira de Melo, 31
+Ipanema, Rio de Janeiro Rio de Janeiro, 22410-010",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Rua Cardoso Júnior, 312
+Laranjeiras, Rio de Janeiro Rio de Janeiro, 22245-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+RJ,Rio de Janeiro,,"Avenida Professor Pereira Reis, 36
+Santo Cristo, Rio de Janeiro Rio de Janeiro, 20220-800",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Av. Santos Dumont, 2140
+Estrada do Coco, Salvador Bahia, 42700-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Rua Arthur de Azevêdo Machado, 3443
+Stiep, Salvador Bahia, 41770-790",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Avenida Antônio Carlos Magalhães, 4479
+Brotas, Salvador Bahia, 40280-000",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Alameda Euvaldo Luz, 92
+Shopping Horto, Salvador Bahia, 41098-020",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Alameda dos Sombreiros, 170
+Caminho das Árvores, Salvador Bahia, 41820-420",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Rua Anísio Teixeira, 347
+Itaigara, Salvador Bahia, 41815-060",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Rua da Gratidão, S/N
+Piatã, Salvador Bahia, 41650-195",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Rua Ceará, 339
+Pituba, Salvador Bahia, 41830-450",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Avenida Simon Bolívar, 558
+Armação, Salvador Bahia, 41750-230",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+BA,Salvador,,"Rua Missionário Otto Nelson, 100
+Stella Maris, Salvador Bahia, 41600-650",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,Santo André,Heineken,"Alameda São Caetano, 366",Santa Paula,09070-210,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,Santo André,Heineken,"Rua das Figueiras, 130",Jardim,09080-300,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Rua Doutor Constâncio Krummel, 2183
+Praia Comprida, São José Santa Catarina, 88103-600",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Avenida Osvaldo José do Amaral, S/N
+Bela Vista, São José Santa Catarina, 88110-798",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Rua Antônio Jovita Duarte, 87
+Forquilhas, São José Santa Catarina, 88107-100",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Avenida Osvaldo José do Amaral, 0
+Bela Vista, São José Santa Catarina, 88110-798",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Rua Antônio Jovita Duarte, 87
+Forquilhas, São José Santa Catarina, 88107-100",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SC,São José,,"Rua Doutor Constâncio Krummel, 2183
+Praia Comprida, São José Santa Catarina, 88103-600",,,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Professor Atílio Innocenti, 277",Itaim Bibi,04538-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Alameda Raja Gabaglia, 129",Vila Olímpia,04551-090,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Doutor Eduardo de Souza Aranha, 377",Vila Nova Conceição,04543-121,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Avenida Brigadeiro Faria Lima, 2627",Jardim Paulistano,01452-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Domingos Fasolari, 22",Casa Verde,02513-010,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Praça dos Omaguás, 62",Pinheiros,05419-020,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Fradique Coutinho, 1097",Pinheiros,05416-011,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Cunha Gago, 832",Pinheiros,05421-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Lisboa, 449",Cerqueira César,05413-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Ibipetuba, 204",Vila Prudente, 03127-180,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Guaimbé, 322",Mooca,03118-030,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Apucarana, 1490",Tatuapé,03311-001,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Avenida Eliseu de Almeida, 984",Instituto de Previdência,05533-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua João Cachoeira, 278",Vila Nova Conceição,04535-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Heliodora, 390",Santana,02022-051,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Galvão Bueno, 160",Liberdade,01506-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Quintino Bocaiúva, 22",Sé,01004-010,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Araújo, 124",República,01220-020,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Avenida Rebouças, 3658",Pinheiros,05402-600,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Bráz Cubas, 168",Bela Vista,04109-040,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Avenida Almirante Delamare, 592",Heliópolis,04230-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua José Jannarelli, 426",Vila Progredior,05615-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Alameda Ribeirão Preto, 384",Morumbi,01331-000,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Melo Alves, 74",Jardins,01417-010,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Simão Álvares, 785",Pinheiros,05417-030,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Alameda Jaú, 1372",Jardins,01420-004,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Joaquim Távora, 1113",Vila Mariana,04015-002,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Avenida Moaci, 806",Moema,04083-002,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Alameda dos Jurupis, 1806",Moema,04088-006,Garrafas de vidro,10 - 22,10 - 22,Heineken
+SP,São Paulo,Heineken,"Rua Joaquim Távora, 1517",Vila Mariana,04015-003,Garrafas de vidro,10 - 22,10 - 22,Heineken
+MG,Belo Horizonte,Pontos verdes,"AVENIDA MAGALHÃES PENIDO, 100",SÃO LUIZ,"31270-222","Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"PRAÇA ALBERTO DALVA SIMÃO, ALAMEDA DOS COQUEIROS",SÃO LUIZ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA IRLANDA, EM FRENTE AO 123 (ANTIGO VIA BRASIL)",ITAPOÃ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVENIDA PORTUGAL, CLUBE LABAREDA",ITAPOÃ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA FLOR DO INDIO, 105. URPV LIBERDADE",LIBERDADE,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA FLOR DE FOGO, 65. RESIDENCIAL VILLAGE",LIBERDADE,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,RUA BOAVENTURA COM RUA DAS BANDEIRAS,SÃO FRANCISCO,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,RUA FERNANDO MAGALHÃES COM RUA MONTESE - PARQUE LAGOA DO NADO,ITAPOÃ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVENIDA MARECHAL ESPERIDIÃO ROSAS, 179",SÃO FRANCISCO,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA RITA ALVES CASTANHEIRA, 50 - URPV DONA CLARA",DONA CLARA,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVENIDA MENDES PIMENTEL, ENTRADA DA AV. ANTÔNIO CARLOS",CAMPUS UFMG,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,AVENIDA ABRAHÃO CARAM DO OUTRO LADO DO CLUBE SIRIO LIBANÊS,SÃO JOSÉ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVENIDA TANCREDO NEVES, 3577- PARQUE CÁSSIA ELLER",PAQUETÁ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,PRAÇA EXP. LOURIVAL PEREIRA COM EXP. ALVES DE OLIVEIRA,SÃO LUIZ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVENIDA FLEMING, EM FRENTE AO NÚMERO 1161",BANDEIRANTES,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA DES. MILTON DOS REIS, LADO OPOSTO AO NÚMERO 93",ITAPOÃ,,"Vidro, papel, metal e plástico",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. AFONSO VAZ DE MELO COM RUA RISOLETA FERNANDES, PRÓXIMO AO HABIB'S - PRAÇA GERALDO MANSUR",ADEMAR MALDONADO,,"Plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,RUA RISOLETA FERNANDES ESQUINA COM RUA QUINCAS BORBA - PRAÇA GERALDO MANSUR,ADEMAR MALDONADO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. VICENTE DE AZEVEDO, 301, ÁREA INTERNA DA GERLU BARREIRO",BARREIRO DE BAIXO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. DEP. ANTÔNIO LUNARD, ENTRE RUAS PROFESSOR LUIZ BICALHO E SÃO TOMÉ",BRASIL INDUSTRIAL,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. AUGUSTO MUNIZ, PRÓXIMO À R. BARÃO DE MONTE ALTO, 960",CARDOSO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. XIMANGO, ÁREA INTERNA DO PARQUE ROBERTO BURLE MARX",FLÁVIO MARQUES LISBOA,,"Plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. FLOR DE SEDA, PRÓXIMO AO Nº 941",LINDÉIA,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. BRÁULIO GOMES NOGUEIRA, PRÓXIMO AO Nº 835",TIROL,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. JOÃO PINHEIRO, PRÓXIMO A FACULDADE DE DIREITO DA UFMG E AO BICICLETÁRIO",CENTRO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. DO CONTORNO, ESQ. COM AVE GETÚLIO VARGAS",FUNCIONÁRIOS,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,R. TIMBIRAS ESQ. COM AV. AFONSO PENA ( PRÓXIMO AO INSTITUTO DE EDUCAÇÃO ),FUNCIONÁRIOS,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. ANTÔNIO DE ALBUQUERQUE, PRÓXIMO À R. ESPÍRITO SANTO ( MINAS TÊNIS CLUBE )",LOURDES,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. SERGIPE, IGREJA DA BOA VIAGEM (PRÓXIMO AO N° 250)",REGIÃO DA BOA VIAGEM,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. RAJA GABAGLIA, PASSEIO DO RESTAURANTE RAJA GRILL",SÃO BENTO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,AV. RAJA GABAGLIA - ÁREA INTERNA DO ESTACIONAMENTO DO RESTAURANTE PORCÃO,SÃO BENTO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. GETÚLIO VARGAS ESQ. COM R. DOS INCONFIDENTES, POSTO DE GASOLINA",SAVASSI,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,R. TRIFANA (PRÓXIMO AO Nº 643),SERRA,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. ARTHUR BERNARDES, 3951, URPV SANTA LÚCIA",STA LÚCIA,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. PRUDENTE DE MORAIS ESQ. COM R. JOAQUIM MURTINHO, POSTO DE GASOLINA",STO ANTÔNIO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV.RAJA GABÁGLIA, EM FRENTE AO BABY BEEF STEAKHOUSE",SÃO BENTO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA GUSTAVO DA SILVEIRA, 1861, ÁPRÓXIMO À PORTARIA DO CETEC",SANTA INÊS,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA SÃO LUIZ, LADO OPOSTO AO Nº 411",SAGRADA FAMILIA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. SÃO SEBASTIÃO, 330",MINASLÂNDIA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. PRINCESA LEOPOLDINA, 485 - ÁREA INTERNA DA GELU NORDESTE *",IPIRANGA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA WILSON MODESTO RIBEIRO, 155 *",IPIRANGA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AVE JOSÉ CLETO, LADO OPOSTO A ESCOLA MUNICIPAL MAJOR DELFINO DE PAULA RICARDO",SANTA CRUZ,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA GENERAL ASTOLFO FERREIRA MENDES, LADO OPOSTO AO Nº 51",SÃO PAULO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA CODAJÁS, 45, QUASE ESQUINA COM RUA SÃO JOÃO DA SERRA ***",SÃO GABRIEL,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA GEORGINA DE PÁDUA, COM RUA MARIA FERREIRA DA SILVA",FERNÃO DIAS,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA QUEBEC, COM RUA PADRE MANOEL BERNARDES",ALTO DOS PINHEIROS,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"RUA GRANITO, ESQUNA COM AVENIDA PRESIDENTE CARLOS LUZ",APARECIDA,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. VILARINHO COM AVENIDA LIEGE, Nº 10 - GELU VENDA NOVA *",JARDIM EUROPA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,RUA EMBAIXADOR JOSÉ APARECIDO - SHOPPING NORTE *,PARQUE SÃO PEDRO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. ÉRICO VERÍSSIMO, 1.428 ( EM FRENTE A REGIONAL VENDA NOVA) **",RIO BRANCO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,AV. COSTA DO MARFIM (ÁREA EXTERNA DO PARQUE ESTRELA DALVA),HAVAÍ,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. D. OSCAR ROMERO ,CONJ. HAB. HENRIQUE S. ARAÚJO (HENRICÃO)",NOVA GAMELEIRA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. BELFOR ROXO, 215 (CEVAE) - ÁREA EXTERNA",NOVA GRANADA,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. BELFOR ROXO, 215 (CEVAE) - ÁREA INTERNA",NOVA GRANADA,,"Plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"AV. BARÃO HOMEM DE MELO, 300, URPV (ENTRADA PELA R. CACUÍ)",NOVA SUISSA,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,AVE CAPIM BRANCO ESQUNA COM RUA MONSENHOR PAULO,VISTA ALEGRE,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. CONSELHEIRO PIRES DA MOTA, 205, GERLU OESTE - ÁREA INTERNA",SALGADO FILHO,,Vidro,08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
+MG,Belo Horizonte,Pontos verdes,"R. CONSELHEIRO PIRES DA MOTA, 205, GERLU OESTE - ÁREA EXTERNA",SALGADO FILHO,,"Vidro, plástico, metal e papel",08:00 - 18:00,08:00 - 12:00,Prefeitura de Belo Horizonte
