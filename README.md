@@ -11,6 +11,6 @@ O diretório possui o Jupyter Notebook com o tratamento dos dados e EDA, apresen
 
 ## Fontes
 
-A lista dos locais está no diretório **pontos_de_reciclagem**, no documento *Links_Pontos_Coleta.txt*. 
+A lista dos locais está no diretório **pontos_de_reciclagem**, no documento *Links_Pontos_Coleta.txt*
 
 Diversos sites do poder público, sites de empresas, pdfs, sites com endereço de lojas. 
