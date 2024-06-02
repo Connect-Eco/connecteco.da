@@ -8,7 +8,7 @@ O diretório possui o Jupyter Notebook com o tratamento dos dados e EDA, apresen
 
 ## analise_de_lixo_plástico_brasil
 
-O diretório possui o Jupyter Notebook com o tratamento dos dados e EDA, apresentando uma análise do comportamento do mercado brasileiro na importação e exportação de material plástico no Brasil, além de uma breve comparação do total de despejo de material plástico no oceano entre o Brasil e outros paises. Inclui o arquivo CSVs utilizados e um arquivo README.
+O diretório possui o Jupyter Notebook com os gráficos criados, apresentando gráficos do mercado brasileiro na importação e exportação de material plástico no Brasil, além de uma breve comparação do total de despejo de material plástico no oceano entre o Brasil e outros paises. Inclui o arquivo CSVs utilizados e um arquivo README.
 
 
 ## Fontes
